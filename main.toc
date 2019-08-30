@@ -4,5 +4,5 @@
 \contentsline {chapter}{\numberline {1}Repaso de electromagnetismo}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Teor\IeC {\'\i }a general de esprcimiento}{3}{chapter.2}
 \contentsline {chapter}{\numberline {3}Los arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Esparcimiento y absorci\IeC {\'o}n de una esfera}{7}{chapter.4}
-\contentsline {chapter}{\numberline {5}Casos particulares}{9}{chapter.5}
+\contentsline {chapter}{\numberline {4}Esparcimiento y absorci\IeC {\'o}n de una esfera}{15}{chapter.4}
+\contentsline {chapter}{\numberline {5}Casos particulares}{17}{chapter.5}
