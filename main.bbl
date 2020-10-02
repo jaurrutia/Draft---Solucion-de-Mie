@@ -1,0 +1,147 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Jackson}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JJD}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={John\bibnamedelima David.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JJD1}
+    \strng{fullhash}{JJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Classical electrodynamics}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Reitz}{book}{}
+    \name{author}{3}{}{%
+      {{hash=RJR}{%
+         family={Reitz},
+         familyi={R\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MFJ}{%
+         family={Milford},
+         familyi={M\bibinitperiod},
+         given={F.\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CWR}{%
+         family={Christy},
+         familyi={C\bibinitperiod},
+         suffix={R},
+         suffixi={R},
+         given={W},
+         giveni={W},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley Pub. Co.}%
+    }
+    \strng{namehash}{RJRMFJCRW1}
+    \strng{fullhash}{RJRMFJCRW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{4}
+    \field{title}{Foundations of electromagnetic theory}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Griffiths}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GDJ}{%
+         family={Griffiths},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{GDJ1}
+    \strng{fullhash}{GDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{4}
+    \field{title}{Intrduction to electrodynamics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{BornWolf1980}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Born},
+         familyi={B\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Emil},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{BMWE1}
+    \strng{fullhash}{BMWE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{6}
+    \field{title}{Principles of Optics: Electromagnetic Theory of Propagation,
+  Interference and Diffraction of Light}
+    \field{year}{1980}
+  \endentry
+
+  \entry{Bohren}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BCF}{%
+         family={Bohren},
+         familyi={B\bibinitperiod},
+         given={C.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=HDR}{%
+         family={Huffman},
+         familyi={H\bibinitperiod},
+         given={D.\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley $\&$ Sons}%
+    }
+    \strng{namehash}{BCFHDR1}
+    \strng{fullhash}{BCFHDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Absorption and scattering of light by small particles}
+    \field{year}{1998}
+  \endentry
+\enddatalist
+\endinput
