@@ -1,9 +1,5 @@
 % $ biblatex auxiliary file $
-<<<<<<< HEAD
-% $ biblatex bbl format version 3.1 $
-=======
 % $ biblatex bbl format version 2.9 $
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -21,9 +17,6 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
-<<<<<<< HEAD
-  \entry{bohren1998absorption}{book}{}
-=======
   \entry{Jackson}{book}{}
     \name{author}{1}{}{%
       {{hash=JJD}{%
@@ -126,35 +119,22 @@
   \endentry
 
   \entry{Bohren}{book}{}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
     \name{author}{2}{}{%
       {{hash=BCF}{%
          family={Bohren},
          familyi={B\bibinitperiod},
-<<<<<<< HEAD
-         given={Craig\bibnamedelima F},
-=======
          given={C.\bibnamedelima F.},
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
          giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
       }}%
       {{hash=HDR}{%
          family={Huffman},
          familyi={H\bibinitperiod},
-<<<<<<< HEAD
-         given={Donald\bibnamedelima R},
-=======
          given={D.\bibnamedelima R.},
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
          giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-<<<<<<< HEAD
-      {John Wiley \& Sons}%
-=======
       {John Wiley $\&$ Sons}%
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
     }
     \strng{namehash}{BCFHDR1}
     \strng{fullhash}{BCFHDR1}
@@ -163,34 +143,5 @@
     \field{title}{Absorption and scattering of light by small particles}
     \field{year}{1998}
   \endentry
-<<<<<<< HEAD
-
-  \entry{arfken2001methods}{book}{}
-    \name{author}{2}{}{%
-      {{hash=AGB}{%
-         family={Arfken},
-         familyi={A\bibinitperiod},
-         given={George\bibnamedelima Brown},
-         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-      {{hash=WHJ}{%
-         family={Weber},
-         familyi={W\bibinitperiod},
-         given={Hans\bibnamedelima J},
-         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Harcourt Academic Press}%
-    }
-    \strng{namehash}{AGBWHJ1}
-    \strng{fullhash}{AGBWHJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Mathematical methods for physicists}
-    \field{year}{2001}
-  \endentry
-=======
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 \enddatalist
 \endinput

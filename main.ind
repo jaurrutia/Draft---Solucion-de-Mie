@@ -1,93 +1,72 @@
 \begin{theindex}
 
-<<<<<<< HEAD
   \item Armónicos esféricos vectoriales
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{9}
+    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{15}, \hyperpage{25}, 
+		\hyperpage{33}
     \subitem función generadora
-      \subsubitem solución azimutal de la, \hyperpage{7}
-      \subsubitem solución general, \hyperpage{8}
-      \subsubitem solución polar de la, \hyperpage{7}
-      \subsubitem solución radial de la, \hyperpage{8}
-    \subitem función generadora de los, \hyperpage{6}
-    \subitem relaciones de ortogonalidad de los, \hyperpage{9}
-  \item Armónicos vectoriales, \hyperpage{6}
-    \subitem función generadora de los, \hyperpage{6}
-=======
-  \item Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{15}
-    \subitem funci\IeC {\'o}n generadora
-      \subsubitem soluci\IeC {\'o}n azimutal de la, \hyperpage{13}
-      \subsubitem soluci\IeC {\'o}n general, \hyperpage{14}
-      \subsubitem soluci\IeC {\'o}n polar de la, \hyperpage{13}
-      \subsubitem soluci\IeC {\'o}n radial de la, \hyperpage{14}
-    \subitem funci\IeC {\'o}n generadora de los, \hyperpage{12}
-    \subitem relaciones de ortogonalidad de los, \hyperpage{15}
-  \item Arm\IeC {\'o}nicos vectoriales, \hyperpage{12}
-    \subitem funci\IeC {\'o}n generadora de los, \hyperpage{12}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+      \subsubitem solución azimutal de la, \hyperpage{13}, 
+		\hyperpage{23}, \hyperpage{31}
+      \subsubitem solución general, \hyperpage{14}, \hyperpage{24}, 
+		\hyperpage{33}
+      \subsubitem solución polar de la, \hyperpage{13}, \hyperpage{23}, 
+		\hyperpage{32}
+      \subsubitem solución radial de la, \hyperpage{14}, 
+		\hyperpage{24}, \hyperpage{32}
+    \subitem función generadora de los, \hyperpage{12}, \hyperpage{22}, 
+		\hyperpage{31}
+    \subitem relaciones de ortogonalidad de los, \hyperpage{15}, 
+		\hyperpage{25}, \hyperpage{34}
+  \item Armónicos vectoriales, \hyperpage{12}, \hyperpage{22}, 
+		\hyperpage{31}
+    \subitem función generadora de los, \hyperpage{12}, \hyperpage{22}, 
+		\hyperpage{31}
 
   \indexspace
 
   \item Bessel
-<<<<<<< HEAD
-    \subitem ecuación esférica de, \hyperpage{8}
-    \subitem funciones esféricas de, \hyperpage{8}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{8}
+    \subitem ecuación esférica de, \hyperpage{14}, \hyperpage{24}, 
+		\hyperpage{32}
+    \subitem funciones esféricas de, \hyperpage{14}, \hyperpage{24}, 
+		\hyperpage{32}
+      \subsubitem relaciones de recurrencia de las, \hyperpage{14}, 
+		\hyperpage{24}, \hyperpage{33}
 
   \indexspace
 
   \item Ecuación
-    \subitem asociada de Legendre, \hyperpage{7}
-    \subitem esférica de Bessel, \hyperpage{8}
+    \subitem asociada de Legendre, \hyperpage{13}, \hyperpage{23}, 
+		\hyperpage{32}
+    \subitem esférica de Bessel, \hyperpage{14}, \hyperpage{24}, 
+		\hyperpage{32}
 
   \indexspace
 
-  \item Hankel, \hyperindexformat{\see{Bessel}}{8}
-    \subitem funciones esféricas de, \hyperpage{8}
-=======
-    \subitem ecuaci\IeC {\'o}n esf\IeC {\'e}rica de, \hyperpage{14}
-    \subitem funciones esf\IeC {\'e}ricas de, \hyperpage{14}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{14}
-
-  \indexspace
-
-  \item Ecuaci\IeC {\'o}n
-    \subitem asociada de Legendre, \hyperpage{13}
-    \subitem esf\IeC {\'e}rica de Bessel, \hyperpage{14}
-
-  \indexspace
-
-  \item Hankel, \hyperindexformat{\see{Bessel}}{14}
-    \subitem funciones esf\IeC {\'e}ricas de, \hyperpage{14}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+  \item Hankel, \hyperindexformat{\see{Bessel}}{14}, 
+		\hyperindexformat{\see{Bessel}}{24}, 
+		\hyperindexformat{\see{Bessel}}{33}
+    \subitem funciones esféricas de, \hyperpage{14}, \hyperpage{24}, 
+		\hyperpage{33}
 
   \indexspace
 
   \item Legendre
-<<<<<<< HEAD
-    \subitem ecuación asociada de, \hyperpage{7}
-    \subitem funciones asociadas de, \hyperpage{7}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{7}
-    \subitem polinomios de, \hyperpage{7}
-=======
-    \subitem ecuaci\IeC {\'o}n asociada de, \hyperpage{13}
-    \subitem funciones asociadas de, \hyperpage{13}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{13}
-    \subitem polinomios de, \hyperpage{13}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+    \subitem ecuación asociada de, \hyperpage{13}, \hyperpage{23}, 
+		\hyperpage{32}
+    \subitem funciones asociadas de, \hyperpage{13}, \hyperpage{23}, 
+		\hyperpage{32}
+      \subsubitem relaciones de ortogonalidad de las, \hyperpage{13}, 
+		\hyperpage{23}, \hyperpage{32}
+    \subitem polinomios de, \hyperpage{13}, \hyperpage{23}, 
+		\hyperpage{32}
 
   \indexspace
 
   \item Ortogonalidad
-<<<<<<< HEAD
     \subitem armónicos esféricos vectoriales, relaciones de, 
-		\hyperpage{9}
-=======
-    \subitem arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales, relaciones de, 
-		\hyperpage{15}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+		\hyperpage{15}, \hyperpage{25}, \hyperpage{34}
     \subitem funciones asociadas de Legrende, relaciones de, 
-		\hyperpage{13}
-    \subitem seno y coseno, relaciones de, \hyperpage{13}
+		\hyperpage{13}, \hyperpage{23}, \hyperpage{32}
+    \subitem seno y coseno, relaciones de, \hyperpage{13}, 
+		\hyperpage{23}, \hyperpage{32}
 
 \end{theindex}

@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-The style file: biblatex.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-=======
 This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
 The style file: biblatex.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -25,55 +16,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-<<<<<<< HEAD
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: main-blx.bib
-Database file #2: 0-Bibliografia/references.bib
-Biblatex version: 3.13
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
-            6365 wiz_defined-function locations,
-            1203 strings with 9145 characters,
-and the built_in function-call counts, 15288 in all, are:
-= -- 1153
-> -- 309
-< -- 82
-+ -- 326
-- -- 104
-* -- 998
-:= -- 1726
-add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 55
-chr.to.int$ -- 42
-cite$ -- 4
-duplicate$ -- 1222
-empty$ -- 1388
-format.name$ -- 128
-if$ -- 3300
-int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 0
-newline$ -- 72
-num.names$ -- 121
-pop$ -- 741
-preamble$ -- 1
-purify$ -- 67
-quote$ -- 0
-skip$ -- 524
-stack$ -- 0
-substring$ -- 2215
-swap$ -- 268
-text.length$ -- 66
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 90
-warning$ -- 0
-while$ -- 206
-width$ -- 0
-write$ -- 70
-=======
 Database file #1: main-blx.bib
 Database file #2: references.bib
 Warning--I didn't find a database entry for "bohren1998absorption"
@@ -221,4 +163,3 @@ while$ -- 311
 width$ -- 0
 write$ -- 141
 (There were 49 error messages)
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a

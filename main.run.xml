@@ -41,11 +41,7 @@
   >
 ]>
 <requests version="1.0">
-<<<<<<< HEAD
-  <internal package="biblatex" priority="9" active="0">
-=======
   <internal package="biblatex" priority="9" active="1">
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
     <generic>latex</generic>
     <provides type="dynamic">
       <file>main.aux</file>
@@ -59,26 +55,16 @@
       <file>blx-compat.def</file>
       <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
-<<<<<<< HEAD
       <file>standard.bbx</file>
-      <file>draft.bbx</file>
-      <file>numeric-comp.cbx</file>
-=======
-      <file>trad-abbrv.bbx</file>
       <file>trad-standard.bbx</file>
-      <file>standard.bbx</file>
-      <file>trad-abbrv.cbx</file>
+      <file>trad-abbrv.bbx</file>
       <file>numeric.cbx</file>
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+      <file>trad-abbrv.cbx</file>
       <file>biblatex.cfg</file>
       <file>spanish.lbx</file>
     </requires>
   </internal>
-<<<<<<< HEAD
-  <external package="biblatex" priority="5" active="0">
-=======
   <external package="biblatex" priority="5" active="1">
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -99,11 +85,7 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-<<<<<<< HEAD
-      <file>0-Bibliografia/references.bib</file>
-=======
       <file>references.bib</file>
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>

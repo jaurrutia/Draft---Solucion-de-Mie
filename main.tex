@@ -1,17 +1,22 @@
 \documentclass[12pts,a4paper]{book}
 
+
+
+%\hypersetup{colorlinks}% uncomment this line if you prefer colored hyperlinks (e.g., for onscreen viewing)
+
+% Just some sample text
 \usepackage{lipsum}
 
-<<<<<<< HEAD
-=======
 \usepackage[style = trad-abbrv, backend = bibtex, sorting = none, backref=true]{biblatex} %style = trad-abbrv
 %		\addbibresource{06-Bibliografia/references.bib}
 \addbibresource{references.bib}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 \input{0-PackagesAndCommands/packages.tex}
+\input{0-PackagesAndCommands/commands.tex}
 
 \title{Solución de Mie}
-\author{Urrutia Anguiano, Jonathan Alexis\\ Rojas, Isabel}
+\author{Jonathan, Amauri, Isabel y Eduardo}
+
+
 
 % ---------------------------For graphics / images
 \usepackage{graphicx}
@@ -20,20 +25,41 @@
 \makeindex
 
 \begin{document}
-	\frontmatter
-	
-%	\blankpage
-%	r.3 full title page
-	\maketitle
-%	r.5 contents
-	\tableofcontents
-%	\listoffigures
-%	\listoftables
 
-	\cleardoublepage
-%\chapter*{Introduction}
-%
-%Aquí iría el texto que todos vamos a escribir al final, en donde hablamos del propósito del libro y esas cosas. Esto lod dejaremos al final.
+
+\frontmatter
+
+\blankpage
+
+% r.3 full title page
+\maketitle
+
+
+
+% r.5 contents
+\tableofcontents
+
+\listoffigures
+
+\listoftables
+
+% r.7 dedication
+\cleardoublepage
+~\vfill
+\begin{doublespace}
+\noindent\fontsize{18}{22}\selectfont\itshape
+\noindent
+Dedicado a todos nosotros que estudiamos esto y lo escribimos porque nos odiamos un poquito :)
+\end{doublespace}
+\vfill
+\vfill
+
+
+% r.9 introduction
+\cleardoublepage
+\chapter*{Introduction}
+
+Aquí iría el texto que todos vamos a escribir al final, en donde hablamos del propósito del libro y esas cosas.
 
 
 % Start the main matter (normal chapters)
@@ -43,18 +69,6 @@
 \chapter{Repaso de electromagnetismo}
 \label{ch:repasoEM} %-------------------Labels para los capítulos -> ch:LABEL
 
-<<<<<<< HEAD
-	El contenido propuesto es
-
-	\begin{itemize}
-	 \item Ecuaciones de Maxwell
-	 \item Considerar la Ec. de Helmholts
-	 \item Hablar sobre los campos EM armónicos
-	 \item Vector de Poynting
-	 \item Condiciones a la frontera de forma general
-	 \item Condiciones a la frontera considerando una esfera
-	\end{itemize}
-=======
 \input{1-Capitulo-Repaso/repaso_electro.tex}
 
 %Esta parte corresponde a \textbf{Isabel}. El contenido propuesto es
@@ -67,20 +81,21 @@
 % \item Condiciones a la frontera de forma general
 % \item Condiciones a la frontera considerando una esfera
 %\end{itemize}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 
 \chapter{Teoría general de esprcimiento}
-\label{ch:EsparcimientoGral}
+\label{ch:EsparcimientoGral} %-------------------Labels para los capítulos -> ch:LABEL
 
-	El contenido propuesto es
+Esta parte aún no tiene a alguien asignado. El contenido propuesto es
 
-	\begin{itemize}
-	 \item Matriz de esparcimiento general
-	 \item Teorema óptico
-	\end{itemize}
+\begin{itemize}
+ \item Matriz de esparcimiento general
+ \item Teorema óptico
+\end{itemize}
+
+
 
 \chapter{Los armónicos esféricos vectoriales}
-\label{ch:ArmonicosEsferico} 
+\label{ch:AEV} 
 	%Esta parte corresponde a \textbf{Jonathan}. El contenido propuesto es
 	%
 	%\begin{itemize}
@@ -90,7 +105,11 @@
 	% \item Geometría esférica para M y N -- Relaciones de ortogonalidad
 	%  \item Descomposición de una onda plana en la base de los AEV
 	%\end{itemize}
-\input{Capitulo-3/ArmonicosEsfericosVectoriales.tex}
+\input{3-Capitulo-AEV/AEV.tex}
+\chapter{Los armónicos esféricos vectoriales 2}
+\label{ch:AEV} 
+\input{3-Capitulo-AEV/ArmonicosEsfericosVectoriales.tex}
+
 
 
 
@@ -118,13 +137,9 @@ Esta parte aún no tiene autor asignado. El contenido propuesto es
  \item Tugsteno (con experimento)
 \end{itemize}
 
-<<<<<<< HEAD
-\setlength\bibitemsep{.1\itemsep}
-=======
 %\bibliography{sample-handout}
 %\bibliographystyle{plainnat}
 
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
 \printbibliography
 
 \printindex

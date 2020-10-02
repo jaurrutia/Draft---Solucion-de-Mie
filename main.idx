@@ -1,49 +1,69 @@
-<<<<<<< HEAD
-\indexentry{Armónicos vectoriales|hyperpage}{6}
-\indexentry{Armónicos vectoriales!función generadora de los|hyperpage}{6}
-\indexentry{Armónicos esféricos vectoriales!función generadora de los|hyperpage}{6}
-\indexentry{Armónicos esféricos vectoriales!función generadora!solución azimutal de la|hyperpage}{7}
-\indexentry{Ortogonalidad!seno y coseno, relaciones de|hyperpage}{7}
-\indexentry{Armónicos esféricos vectoriales!función generadora!solución polar de la|hyperpage}{7}
-\indexentry{Ecuación!asociada de Legendre|hyperpage}{7}
-\indexentry{Legendre!ecuación asociada de|hyperpage}{7}
-\indexentry{Legendre!polinomios de|hyperpage}{7}
-\indexentry{Legendre!funciones asociadas de|hyperpage}{7}
-\indexentry{Ortogonalidad!funciones asociadas de Legrende, relaciones de|hyperpage}{7}
-\indexentry{Legendre!funciones asociadas de!relaciones de ortogonalidad de las|hyperpage}{7}
-\indexentry{Armónicos esféricos vectoriales!función generadora!solución radial de la|hyperpage}{8}
-\indexentry{Ecuación!esférica de Bessel|hyperpage}{8}
-\indexentry{Bessel!ecuación esférica de|hyperpage}{8}
-\indexentry{Bessel!funciones esféricas de|hyperpage}{8}
-\indexentry{Hankel!funciones esféricas de|hyperpage}{8}
-\indexentry{Hankel|hyperindexformat{\see{Bessel}}}{8}
-\indexentry{Armónicos esféricos vectoriales!función generadora!solución general|hyperpage}{8}
-\indexentry{Bessel!funciones esféricas de!relaciones de recurrencia de las|hyperpage}{8}
-\indexentry{Armónicos esféricos vectoriales!$\vb{M}$ y $\vb{N}$|hyperpage}{9}
-\indexentry{Armónicos esféricos vectoriales!relaciones de ortogonalidad de los|hyperpage}{9}
-\indexentry{Ortogonalidad!armónicos esféricos vectoriales, relaciones de|hyperpage}{9}
-=======
-\indexentry{Arm\IeC {\'o}nicos vectoriales|hyperpage}{12}
-\indexentry{Arm\IeC {\'o}nicos vectoriales!funci\IeC {\'o}n generadora de los|hyperpage}{12}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!funci\IeC {\'o}n generadora de los|hyperpage}{12}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!funci\IeC {\'o}n generadora!soluci\IeC {\'o}n azimutal de la|hyperpage}{13}
+\indexentry{Armónicos vectoriales|hyperpage}{12}
+\indexentry{Armónicos vectoriales!función generadora de los|hyperpage}{12}
+\indexentry{Armónicos esféricos vectoriales!función generadora de los|hyperpage}{12}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución azimutal de la|hyperpage}{13}
 \indexentry{Ortogonalidad!seno y coseno, relaciones de|hyperpage}{13}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!funci\IeC {\'o}n generadora!soluci\IeC {\'o}n polar de la|hyperpage}{13}
-\indexentry{Ecuaci\IeC {\'o}n!asociada de Legendre|hyperpage}{13}
-\indexentry{Legendre!ecuaci\IeC {\'o}n asociada de|hyperpage}{13}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución polar de la|hyperpage}{13}
+\indexentry{Ecuación!asociada de Legendre|hyperpage}{13}
+\indexentry{Legendre!ecuación asociada de|hyperpage}{13}
 \indexentry{Legendre!polinomios de|hyperpage}{13}
 \indexentry{Legendre!funciones asociadas de|hyperpage}{13}
 \indexentry{Ortogonalidad!funciones asociadas de Legrende, relaciones de|hyperpage}{13}
 \indexentry{Legendre!funciones asociadas de!relaciones de ortogonalidad de las|hyperpage}{13}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!funci\IeC {\'o}n generadora!soluci\IeC {\'o}n radial de la|hyperpage}{14}
-\indexentry{Ecuaci\IeC {\'o}n!esf\IeC {\'e}rica de Bessel|hyperpage}{14}
-\indexentry{Bessel!ecuaci\IeC {\'o}n esf\IeC {\'e}rica de|hyperpage}{14}
-\indexentry{Bessel!funciones esf\IeC {\'e}ricas de|hyperpage}{14}
-\indexentry{Hankel!funciones esf\IeC {\'e}ricas de|hyperpage}{14}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución radial de la|hyperpage}{14}
+\indexentry{Ecuación!esférica de Bessel|hyperpage}{14}
+\indexentry{Bessel!ecuación esférica de|hyperpage}{14}
+\indexentry{Bessel!funciones esféricas de|hyperpage}{14}
+\indexentry{Hankel!funciones esféricas de|hyperpage}{14}
 \indexentry{Hankel|hyperindexformat{\see{Bessel}}}{14}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!funci\IeC {\'o}n generadora!soluci\IeC {\'o}n general|hyperpage}{14}
-\indexentry{Bessel!funciones esf\IeC {\'e}ricas de!relaciones de recurrencia de las|hyperpage}{14}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!$\vb{M}$ y $\vb{N}$|hyperpage}{15}
-\indexentry{Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales!relaciones de ortogonalidad de los|hyperpage}{15}
-\indexentry{Ortogonalidad!arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales, relaciones de|hyperpage}{15}
->>>>>>> 65711adc10d96288917d1aaba2996bf656bbde5a
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución general|hyperpage}{14}
+\indexentry{Bessel!funciones esféricas de!relaciones de recurrencia de las|hyperpage}{14}
+\indexentry{Armónicos esféricos vectoriales!$\vb{M}$ y $\vb{N}$|hyperpage}{15}
+\indexentry{Armónicos esféricos vectoriales!relaciones de ortogonalidad de los|hyperpage}{15}
+\indexentry{Ortogonalidad!armónicos esféricos vectoriales, relaciones de|hyperpage}{15}
+\indexentry{Armónicos vectoriales|hyperpage}{22}
+\indexentry{Armónicos vectoriales!función generadora de los|hyperpage}{22}
+\indexentry{Armónicos esféricos vectoriales!función generadora de los|hyperpage}{22}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución azimutal de la|hyperpage}{23}
+\indexentry{Ortogonalidad!seno y coseno, relaciones de|hyperpage}{23}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución polar de la|hyperpage}{23}
+\indexentry{Ecuación!asociada de Legendre|hyperpage}{23}
+\indexentry{Legendre!ecuación asociada de|hyperpage}{23}
+\indexentry{Legendre!polinomios de|hyperpage}{23}
+\indexentry{Legendre!funciones asociadas de|hyperpage}{23}
+\indexentry{Ortogonalidad!funciones asociadas de Legrende, relaciones de|hyperpage}{23}
+\indexentry{Legendre!funciones asociadas de!relaciones de ortogonalidad de las|hyperpage}{23}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución radial de la|hyperpage}{24}
+\indexentry{Ecuación!esférica de Bessel|hyperpage}{24}
+\indexentry{Bessel!ecuación esférica de|hyperpage}{24}
+\indexentry{Bessel!funciones esféricas de|hyperpage}{24}
+\indexentry{Hankel!funciones esféricas de|hyperpage}{24}
+\indexentry{Hankel|hyperindexformat{\see{Bessel}}}{24}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución general|hyperpage}{24}
+\indexentry{Bessel!funciones esféricas de!relaciones de recurrencia de las|hyperpage}{24}
+\indexentry{Armónicos esféricos vectoriales!$\vb{M}$ y $\vb{N}$|hyperpage}{25}
+\indexentry{Armónicos esféricos vectoriales!relaciones de ortogonalidad de los|hyperpage}{25}
+\indexentry{Ortogonalidad!armónicos esféricos vectoriales, relaciones de|hyperpage}{25}
+\indexentry{Armónicos vectoriales|hyperpage}{31}
+\indexentry{Armónicos vectoriales!función generadora de los|hyperpage}{31}
+\indexentry{Armónicos esféricos vectoriales!función generadora de los|hyperpage}{31}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución azimutal de la|hyperpage}{31}
+\indexentry{Ortogonalidad!seno y coseno, relaciones de|hyperpage}{32}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución polar de la|hyperpage}{32}
+\indexentry{Ecuación!asociada de Legendre|hyperpage}{32}
+\indexentry{Legendre!ecuación asociada de|hyperpage}{32}
+\indexentry{Legendre!polinomios de|hyperpage}{32}
+\indexentry{Legendre!funciones asociadas de|hyperpage}{32}
+\indexentry{Ortogonalidad!funciones asociadas de Legrende, relaciones de|hyperpage}{32}
+\indexentry{Legendre!funciones asociadas de!relaciones de ortogonalidad de las|hyperpage}{32}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución radial de la|hyperpage}{32}
+\indexentry{Ecuación!esférica de Bessel|hyperpage}{32}
+\indexentry{Bessel!ecuación esférica de|hyperpage}{32}
+\indexentry{Bessel!funciones esféricas de|hyperpage}{32}
+\indexentry{Hankel!funciones esféricas de|hyperpage}{33}
+\indexentry{Hankel|hyperindexformat{\see{Bessel}}}{33}
+\indexentry{Armónicos esféricos vectoriales!función generadora!solución general|hyperpage}{33}
+\indexentry{Armónicos esféricos vectoriales!$\vb{M}$ y $\vb{N}$|hyperpage}{33}
+\indexentry{Bessel!funciones esféricas de!relaciones de recurrencia de las|hyperpage}{33}
+\indexentry{Armónicos esféricos vectoriales!relaciones de ortogonalidad de los|hyperpage}{34}
+\indexentry{Ortogonalidad!armónicos esféricos vectoriales, relaciones de|hyperpage}{34}
