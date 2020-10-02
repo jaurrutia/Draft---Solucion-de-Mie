@@ -1,8 +1,12 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
-\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {v}}{chapter*.2}
-\contentsline {chapter}{\'{I}ndice de tablas}{\es@scroman {vii}}{chapter*.3}
-\contentsline {chapter}{\numberline {1}Repaso de electromagnetismo}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Teor\IeC {\'\i }a general de esprcimiento}{3}{chapter.2}
-\contentsline {chapter}{\numberline {3}Los arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Esparcimiento y absorci\IeC {\'o}n de una esfera}{15}{chapter.4}
-\contentsline {chapter}{\numberline {5}Casos particulares}{17}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Repaso de electromagnetismo}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Teoría general de esprcimiento}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Los armónicos esféricos vectoriales}{5}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Esparcimiento y absorción de una esfera}{15}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Casos particulares}{17}{chapter.5}%

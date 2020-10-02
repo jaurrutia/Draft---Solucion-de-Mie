@@ -3,6 +3,7 @@
 \usepackage{lipsum}
 
 \input{0-PackagesAndCommands/packages.tex}
+\input{0-PackagesAndCommands/commands.tex}
 
 \title{Solución de Mie}
 \author{Urrutia Anguiano, Jonathan Alexis\\ Rojas, Isabel}

@@ -1,4 +1,3 @@
-%!TeX root = ../main.tex
 %-------------------------------------------------------------------------------
 %                                   PACKAGES 		                             |
 %-------------------------------------------------------------------------------
@@ -49,7 +48,7 @@
 		\spanishdecimal{.}
 		\addto\captionsspanish{\renewcommand{\figurename}{Fig.}}
 		
-		\usepackage[bibstyle = draft, %trad-abbrv, 
+		\usepackage[bibstyle = trad-abbrv, 
 					citestyle = numeric-comp,
 					backend = bibtex,
 					sorting = none,
@@ -59,7 +58,7 @@
 			backrefpage = {citado en la pág.},% originally "cited on page"
 			backrefpages = {citado en las págs.},% originally "cited on pages"
 			}		
-		\addbibresource{0-Bibliografia/references.bib}
+		\addbibresource{04-Bibliografia/references.bib}
 
 	%------------------------- Maths --------------------------------------
 		\usepackage{amssymb, amsmath, amsbsy, amsfonts}	% Math symbols and so on
