@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -17,24 +17,28 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
-  \entry{Jackson}{book}{}
+  \entry{jackson1999electrodynamics}{book}{}
     \name{author}{1}{}{%
       {{hash=JJD}{%
          family={Jackson},
          familyi={J\bibinitperiod},
-         given={John\bibnamedelima David.},
+         given={John\bibnamedelima David},
          giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
       }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
     }
     \strng{namehash}{JJD1}
     \strng{fullhash}{JJD1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{edition}{3}
     \field{title}{Classical electrodynamics}
-    \field{year}{1998}
+    \field{year}{1999}
   \endentry
 
-  \entry{Reitz}{book}{}
+  \entry{reitz1993foundations}{book}{}
     \name{author}{3}{}{%
       {{hash=RJR}{%
          family={Reitz},
@@ -45,16 +49,14 @@
       {{hash=MFJ}{%
          family={Milford},
          familyi={M\bibinitperiod},
-         given={F.\bibnamedelima J.},
+         given={Frederick\bibnamedelima J.},
          giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
-      {{hash=CWR}{%
+      {{hash=CRW}{%
          family={Christy},
          familyi={C\bibinitperiod},
-         suffix={R},
-         suffixi={R},
-         given={W},
-         giveni={W},
+         given={Robert\bibnamedelima W},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
@@ -65,16 +67,16 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{edition}{4}
-    \field{title}{Foundations of electromagnetic theory}
+    \field{title}{Foundations of Electromagnetic Teory}
     \field{year}{1993}
   \endentry
 
-  \entry{Griffiths}{book}{}
+  \entry{griffiths2013electrodynamics}{book}{}
     \name{author}{1}{}{%
       {{hash=GDJ}{%
          family={Griffiths},
          familyi={G\bibinitperiod},
-         given={David\bibnamedelima J.},
+         given={David\bibnamedelima Jeffrey},
          giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
@@ -85,12 +87,12 @@
     \strng{fullhash}{GDJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{edition}{4}
-    \field{title}{Intrduction to electrodynamics}
+    \field{edition}{4$^\circ$}
+    \field{title}{Introduction to electrodynamics}
     \field{year}{2013}
   \endentry
 
-  \entry{BornWolf1980}{book}{}
+  \entry{born2005principles}{book}{}
     \name{author}{2}{}{%
       {{hash=BM}{%
          family={Born},
@@ -98,43 +100,43 @@
          given={Max},
          giveni={M\bibinitperiod},
       }}%
-      {{hash=WE}{%
-         family={Wolf},
-         familyi={W\bibinitperiod},
-         given={Emil},
-         giveni={E\bibinitperiod},
+      {{hash=EW}{%
+         family={Emil},
+         familyi={E\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
       {Cambridge University Press}%
     }
-    \strng{namehash}{BMWE1}
-    \strng{fullhash}{BMWE1}
+    \strng{namehash}{BMEW1}
+    \strng{fullhash}{BMEW1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{edition}{6}
-    \field{title}{Principles of Optics: Electromagnetic Theory of Propagation,
-  Interference and Diffraction of Light}
-    \field{year}{1980}
+    \field{edition}{7}
+    \field{title}{{Principle of Optics: Electromagnetic Theory of Propagation,
+  Intergerence and Diffraction of Light}}
+    \field{year}{2005}
   \endentry
 
-  \entry{Bohren}{book}{}
+  \entry{bohren1998absorption}{book}{}
     \name{author}{2}{}{%
       {{hash=BCF}{%
          family={Bohren},
          familyi={B\bibinitperiod},
-         given={C.\bibnamedelima F.},
+         given={Craig\bibnamedelima F},
          giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
       }}%
       {{hash=HDR}{%
          family={Huffman},
          familyi={H\bibinitperiod},
-         given={D.\bibnamedelima R.},
+         given={Donald\bibnamedelima R},
          giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-      {John Wiley $\&$ Sons}%
+      {John Wiley \& Sons}%
     }
     \strng{namehash}{BCFHDR1}
     \strng{fullhash}{BCFHDR1}
@@ -142,6 +144,32 @@
     \field{labeltitlesource}{title}
     \field{title}{Absorption and scattering of light by small particles}
     \field{year}{1998}
+  \endentry
+
+  \entry{arfken2001methods}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AGB}{%
+         family={Arfken},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima Brown},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Hans\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harcourt Academic Press}%
+    }
+    \strng{namehash}{AGBWHJ1}
+    \strng{fullhash}{AGBWHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Mathematical methods for physicists}
+    \field{year}{2001}
   \endentry
 \enddatalist
 \endinput

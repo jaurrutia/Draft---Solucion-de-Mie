@@ -7,9 +7,6 @@
 % Just some sample text
 \usepackage{lipsum}
 
-\usepackage[style = trad-abbrv, backend = bibtex, sorting = none, backref=true]{biblatex} %style = trad-abbrv
-%		\addbibresource{06-Bibliografia/references.bib}
-\addbibresource{references.bib}
 \input{0-PackagesAndCommands/packages.tex}
 \input{0-PackagesAndCommands/commands.tex}
 
@@ -66,7 +63,7 @@ Aquí iría el texto que todos vamos a escribir al final, en donde hablamos del 
 \mainmatter
 
 
-\chapter{Repaso de electromagnetismo}
+\chapter{Concepelectromagnetismo}
 \label{ch:repasoEM} %-------------------Labels para los capítulos -> ch:LABEL
 
 \input{1-Capitulo-Repaso/repaso_electro.tex}
@@ -105,7 +102,8 @@ Esta parte aún no tiene a alguien asignado. El contenido propuesto es
 	% \item Geometría esférica para M y N -- Relaciones de ortogonalidad
 	%  \item Descomposición de una onda plana en la base de los AEV
 	%\end{itemize}
-\input{Capitulo-3/ArmonicosEsfericosVectoriales.tex}
+\input{3-Capitulo-AEV/AEV.tex}
+\input{3-Capitulo-AEV/Ejercicios.tex}
 
 
 

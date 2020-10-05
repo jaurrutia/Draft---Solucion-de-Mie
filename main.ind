@@ -1,72 +1,54 @@
 \begin{theindex}
 
-  \item Armónicos esféricos vectoriales
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{15}, \hyperpage{25}, 
-		\hyperpage{33}
+  \item Armónicos esféricos vectoriales, \hyperpage{12}
+    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{15}
     \subitem función generadora
-      \subsubitem solución azimutal de la, \hyperpage{13}, 
-		\hyperpage{23}, \hyperpage{31}
-      \subsubitem solución general, \hyperpage{14}, \hyperpage{24}, 
-		\hyperpage{33}
-      \subsubitem solución polar de la, \hyperpage{13}, \hyperpage{23}, 
-		\hyperpage{32}
-      \subsubitem solución radial de la, \hyperpage{14}, 
-		\hyperpage{24}, \hyperpage{32}
-    \subitem función generadora de los, \hyperpage{12}, \hyperpage{22}, 
-		\hyperpage{31}
-    \subitem relaciones de ortogonalidad de los, \hyperpage{15}, 
-		\hyperpage{25}, \hyperpage{34}
-  \item Armónicos vectoriales, \hyperpage{12}, \hyperpage{22}, 
-		\hyperpage{31}
-    \subitem función generadora de los, \hyperpage{12}, \hyperpage{22}, 
-		\hyperpage{31}
+      \subsubitem solución azimutal de la, \hyperpage{13}
+      \subsubitem solución general, \hyperpage{14}
+      \subsubitem solución polar de la, \hyperpage{13}
+      \subsubitem solución radial de la, \hyperpage{14}
+    \subitem función generadora de los, \hyperpage{12}
 
   \indexspace
 
   \item Bessel
-    \subitem ecuación esférica de, \hyperpage{14}, \hyperpage{24}, 
-		\hyperpage{32}
-    \subitem funciones esféricas de, \hyperpage{14}, \hyperpage{24}, 
-		\hyperpage{32}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{14}, 
-		\hyperpage{24}, \hyperpage{33}
+    \subitem ecuación esférica de, \hyperpage{14}
+    \subitem funciones esféricas de, \hyperpage{14}
+      \subsubitem relaciones de recurrencia de las, \hyperpage{14}
 
   \indexspace
 
   \item Ecuación
-    \subitem asociada de Legendre, \hyperpage{13}, \hyperpage{23}, 
-		\hyperpage{32}
-    \subitem esférica de Bessel, \hyperpage{14}, \hyperpage{24}, 
-		\hyperpage{32}
+    \subitem asociada de Legendre, \hyperpage{13}
+    \subitem esférica de Bessel, \hyperpage{14}
 
   \indexspace
 
-  \item Hankel, \hyperindexformat{\see{Bessel}}{14}, 
-		\hyperindexformat{\see{Bessel}}{24}, 
-		\hyperindexformat{\see{Bessel}}{33}
-    \subitem funciones esféricas de, \hyperpage{14}, \hyperpage{24}, 
-		\hyperpage{33}
+  \item Hankel, \hyperindexformat{\see{Bessel}}{14}
+    \subitem funciones esféricas de, \hyperpage{14}
+
+  \indexspace
+
+  \item Kronecker
+    \subitem Delta de, \hyperpage{13}
 
   \indexspace
 
   \item Legendre
-    \subitem ecuación asociada de, \hyperpage{13}, \hyperpage{23}, 
-		\hyperpage{32}
-    \subitem funciones asociadas de, \hyperpage{13}, \hyperpage{23}, 
-		\hyperpage{32}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{13}, 
-		\hyperpage{23}, \hyperpage{32}
-    \subitem polinomios de, \hyperpage{13}, \hyperpage{23}, 
-		\hyperpage{32}
+    \subitem ecuación asociada de, \hyperpage{13}
+    \subitem funciones asociadas de, \hyperpage{13}
+      \subsubitem relaciones de ortogonalidad de las, \hyperpage{13}
+    \subitem polinomios de, \hyperpage{13}
 
   \indexspace
 
   \item Ortogonalidad
-    \subitem armónicos esféricos vectoriales, relaciones de, 
-		\hyperpage{15}, \hyperpage{25}, \hyperpage{34}
     \subitem funciones asociadas de Legrende, relaciones de, 
-		\hyperpage{13}, \hyperpage{23}, \hyperpage{32}
-    \subitem seno y coseno, relaciones de, \hyperpage{13}, 
-		\hyperpage{23}, \hyperpage{32}
+		\hyperpage{13}
+    \subitem seno y coseno, relaciones de, \hyperpage{13}
+
+  \indexspace
+
+  \item Separación de variables, \hyperpage{12}
 
 \end{theindex}

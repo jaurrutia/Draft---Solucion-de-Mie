@@ -1,9 +1,9 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: biblatex.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -16,150 +16,76 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
 Database file #2: references.bib
-Warning--I didn't find a database entry for "bohren1998absorption"
-Warning--I didn't find a database entry for "arfken2001methods"
-Biblatex version: 3.8
+You're missing a field name---line 2 of file references.bib
+ : 
+ : % title={Classical electrodynamics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 8 of file references.bib
+ : 
+ : % title={Intrduction to electrodynamics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 16 of file references.bib
+ : 
+ : %edition={6},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 23 of file references.bib
+ : 
+ : %edition={4},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 30 of file references.bib
+ : 
+ : %edition={},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2633 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2637 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2637 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2637 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2637 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2643 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2643 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2643 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2647 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2651 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2651 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2651 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2651 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2657 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2657 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2657 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2661 of file biblatex.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-Name 3 in "Reitz, John R. and Milford, F. J. and Christy, R, W," has a comma at the end for entry Reitz
-while executing---line 2749 of file biblatex.bst
-You've used 6 entries,
-            6268 wiz_defined-function locations,
-            1209 strings with 9162 characters,
-and the built_in function-call counts, 27504 in all, are:
-= -- 1847
-> -- 705
-< -- 172
-+ -- 731
-- -- 307
-* -- 1675
-:= -- 2740
+You've used 7 entries,
+            6365 wiz_defined-function locations,
+            1224 strings with 9628 characters,
+and the built_in function-call counts, 40286 in all, are:
+= -- 2939
+> -- 975
+< -- 232
++ -- 1033
+- -- 459
+* -- 2577
+:= -- 4234
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 109
-chr.to.int$ -- 34
-cite$ -- 10
-duplicate$ -- 2763
-empty$ -- 2556
-format.name$ -- 337
-if$ -- 5770
+call.type$ -- 7
+change.case$ -- 157
+chr.to.int$ -- 50
+cite$ -- 12
+duplicate$ -- 3537
+empty$ -- 3685
+format.name$ -- 409
+if$ -- 8495
 int.to.chr$ -- 0
-int.to.str$ -- 14
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 146
-num.names$ -- 272
-pop$ -- 1764
+newline$ -- 174
+num.names$ -- 355
+pop$ -- 2149
 preamble$ -- 1
-purify$ -- 136
+purify$ -- 190
 quote$ -- 0
-skip$ -- 1044
+skip$ -- 1381
 stack$ -- 0
-substring$ -- 2951
-swap$ -- 641
-text.length$ -- 126
-text.prefix$ -- 2
+substring$ -- 5403
+swap$ -- 800
+text.length$ -- 153
+text.prefix$ -- 0
 top$ -- 1
-type$ -- 192
+type$ -- 226
 warning$ -- 0
-while$ -- 311
+while$ -- 466
 width$ -- 0
-write$ -- 141
-(There were 49 error messages)
+write$ -- 168
+(There were 5 error messages)

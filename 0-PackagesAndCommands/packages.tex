@@ -1,3 +1,4 @@
+%!TeX root = ../main.tex
 
 %-------------------------------------------------------------------------------
 %                                   PACKAGES 		                                    |
@@ -22,6 +23,13 @@
 \usepackage{imakeidx}						% for indexes
 \makeindex[intoc]
 \usepackage{setspace}
+
+\usepackage{enumitem}
+\usepackage{etoolbox}
+ % restart the enumerate list every chapter
+ \preto\chapter{%
+   \restartlist{enumerate}%
+}
 
 	%---------------------- Figures ----------------------------
 		\usepackage[margin=10pt,font=scriptsize,labelfont=bf, ]{caption}  
@@ -56,9 +64,8 @@
 		\spanishdecimal{.}
 %		\usepackage[ square, comma, sort&compress, numbers]{natbib}
 %											These are on the main.tex
-%		\usepackage[style = trad-abbrv, backend = bibtex, sorting = none, backref=true]{biblatex} %style = trad-abbrv
-%		\addbibresource{06-Bibliografia/references.bib}
-		%\usepackage[style = trad-abbrv, backend = bibtex]{biblatex}
+		\usepackage[style = draft, backend = bibtex, sorting = none, backref=true]{biblatex} %style = trad-abbrv
+		\addbibresource{06-Bibliografia/references.bib}
 		 % The settings for the hyperref package are found below in the PDF/PS set up section 
 		\addto\captionsspanish{\renewcommand{\figurename}{Fig.}}
 

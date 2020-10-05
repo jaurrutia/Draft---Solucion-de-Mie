@@ -1,17 +1,19 @@
 %!TeX root = ../main.tex
+
 %-------------------------------------------------------------------------------
-%                                   PACKAGES 		                             |
+%                                   PACKAGES 		                                    |
 %-------------------------------------------------------------------------------
 
+%\usepackage{pslatex}						%Times New Roman font 
 \usepackage{multicol}						% for pages with multiple text columns, e.g. References
-	\setlength{\columnsep}{20pt} 			% space between columns; default 10pt quite narrow
+	\setlength{\columnsep}{20pt} 				% space between columns; default 10pt quite narrow
 \usepackage{multirow}
-\usepackage{listings}                    	% Allows to add coding lines 
+\usepackage{listings}                    		% Allows to add coding lines 
 \usepackage{emptypage}						% Eliminates headers and footnotes in empty pages
-\usepackage{makeidx}						% Add glosaries
+\usepackage{makeidx}							% Add glosaries
 %\usepackage[style=list,toc,number=none]{glossary}
 \raggedbottom								% Makes LaTeX send tha white spaces to the background
-\usepackage[bottom]{footmisc}				% for the footnotes; perpage -> inicia la numeración en la página misma
+\usepackage[bottom]{footmisc}					% for the footnotes; perpage -> inicia la numeración en la página misma
 \usepackage{fancyhdr}						% for better header layout
 \usepackage{eucal}
 \usepackage{ifthen}
@@ -20,16 +22,29 @@
 \usepackage{titlesec}
 \usepackage{imakeidx}						% for indexes
 \makeindex[intoc]
-
 \usepackage{setspace}
-%\setlength\cftparskip{.6em}
-%\setlength\cftbeforechapskip{0pt}
+
+\usepackage{enumitem}
+\usepackage{etoolbox}
+ % restart the enumerate list every chapter
+ \preto\chapter{%
+   \restartlist{enumerate}%
+}
 
 	%---------------------- Figures ----------------------------
 		\usepackage[margin=10pt,font=scriptsize,labelfont=bf, ]{caption}  
-		\usepackage[labelformat=simple]{subcaption} % labelformat=simple   O brace      
+		\usepackage[labelformat=simple]{subcaption} % labelformat=simple   O brace
+%		\usepackage{subcaption}
+%			\captionsetup[subfigure]{labelformat=simple}
+		%\usepackage[bf,SL,BF]{subfigure}         
 	    \usepackage{float}
+		%	\floatsetup[subfigure]{style=plain,heightadjust=object,
+		%					capbesideposition={left,top},
+		%					capbesidesep=space}
+			%\DeclareCaptionSubType[alph]{figure}
+			%\captionsetup[subfigure]{labelformat=brace,justification=centerlast}
 		\usepackage[export]{adjustbox}
+		\usepackage{wrapfig}                    			% to include figure with text wrapping around it
 
 	%--------------------- Color/equations -related stuff
 		\usepackage{xcolor}
@@ -47,19 +62,12 @@
 		\usepackage[T1]{fontenc}			 		% 8-bits fonts
 		\usepackage[utf8]{inputenc}           			% Complete latin alfabet: Accents and so on
 		\spanishdecimal{.}
+%		\usepackage[ square, comma, sort&compress, numbers]{natbib}
+%											These are on the main.tex
+		\usepackage[style = draft, backend = bibtex, sorting = none, backref=true]{biblatex} %style = trad-abbrv
+		\addbibresource{06-Bibliografia/references.bib}
+		 % The settings for the hyperref package are found below in the PDF/PS set up section 
 		\addto\captionsspanish{\renewcommand{\figurename}{Fig.}}
-		
-		\usepackage[bibstyle = draft, %trad-abbrv, 
-					citestyle = numeric-comp,
-					backend = bibtex,
-					sorting = none,
-					backref=true]{biblatex} %style = trad-abbrv
-		\DeclareFieldFormat[article]{volume}{\mkbibbold{#1}}
-		\DefineBibliographyStrings{spanish}{%
-			backrefpage = {citado en la pág.},% originally "cited on page"
-			backrefpages = {citado en las págs.},% originally "cited on pages"
-			}		
-		\addbibresource{0-Bibliografia/references.bib}
 
 	%------------------------- Maths --------------------------------------
 		\usepackage{amssymb, amsmath, amsbsy, amsfonts}	% Math symbols and so on
@@ -84,7 +92,9 @@
 				\tikzstyle directed=[postaction={decorate,decoration={markings,
 									 mark=at position .65 with{\arrow[arrowstyle]{stealth}}}}]
 				\tikzstyle reverse directed=[postaction={decorate,decoration={markings,
-									mark=at position .65 with {\arrowreversed[arrowstyle]{stealth};}}}]  		 		
+									mark=at position .65 with {\arrowreversed[arrowstyle]{stealth};}}}]  		 
+									
+					
 
 %------------------------- hyperref package --------------------------------------
    \usepackage[ pdftex, plainpages = false, pdfpagelabels, 
@@ -108,3 +118,5 @@
     \DeclareGraphicsExtensions{.png, .jpg, .pdf}
 
     \pdfcompresslevel=9
+
+
