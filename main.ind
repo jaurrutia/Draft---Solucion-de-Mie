@@ -1,69 +1,71 @@
 \begin{theindex}
 
-  \item Armónicos esféricos vectoriales, \hyperpage{16}
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{19}
-    \subitem función generadora
-      \subsubitem solución azimutal de la, \hyperpage{17}
-      \subsubitem solución general, \hyperpage{18}
-      \subsubitem solución polar de la, \hyperpage{17}
-      \subsubitem solución radial de la, \hyperpage{18}
-    \subitem función generadora de los, \hyperpage{16}
+  \item Arm\IeC {\'o}nicos esf\IeC {\'e}ricos vectoriales, 
+		\hyperpage{18}
+    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{21}
+    \subitem funci\IeC {\'o}n generadora
+      \subsubitem soluci\IeC {\'o}n azimutal de la, \hyperpage{19}
+      \subsubitem soluci\IeC {\'o}n general, \hyperpage{20}
+      \subsubitem soluci\IeC {\'o}n polar de la, \hyperpage{19}
+      \subsubitem soluci\IeC {\'o}n radial de la, \hyperpage{20}
+    \subitem funci\IeC {\'o}n generadora de los, \hyperpage{18}
 
   \indexspace
 
   \item Bessel
-    \subitem ecuación esférica de, \hyperpage{18}
-    \subitem funciones esféricas de, \hyperpage{18}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{18}
+    \subitem ecuaci\IeC {\'o}n esf\IeC {\'e}rica de, \hyperpage{20}
+    \subitem funciones esf\IeC {\'e}ricas de, \hyperpage{20}
+      \subsubitem relaciones de recurrencia de las, \hyperpage{20}
 
   \indexspace
 
-  \item Ecuación
-    \subitem asociada de Legendre, \hyperpage{17}
-    \subitem esférica de Bessel, \hyperpage{18}
-  \item Electromagnéticos
+  \item Ecuaci\IeC {\'o}n
+    \subitem asociada de Legendre, \hyperpage{19}
+    \subitem esf\IeC {\'e}rica de Bessel, \hyperpage{20}
+  \item Ecuaciones de Maxwell, \hyperpage{1}
+  \item Electromagn\IeC {\'e}ticos
     \subitem campos
-      \subsubitem lejano, \hyperpage{12}
-      \subsubitem operador de campo lejano, \hyperpage{12}
+      \subsubitem lejano, \hyperpage{14}
+      \subsubitem operador de campo lejano, \hyperpage{14}
   \item Esparcimiento
-    \subitem matriz de, \hyperpage{12}
+    \subitem matriz de, \hyperpage{14}
 
   \indexspace
 
-  \item Hankel, \hyperindexformat{\see{Bessel}}{18}
-    \subitem funciones esféricas de, \hyperpage{18}
+  \item Hankel, \hyperindexformat{\see{Bessel}}{20}
+    \subitem funciones esf\IeC {\'e}ricas de, \hyperpage{20}
 
   \indexspace
 
   \item Kronecker
-    \subitem Delta de, \hyperpage{17}
+    \subitem Delta de, \hyperpage{19}
 
   \indexspace
 
   \item Legendre
-    \subitem ecuación asociada de, \hyperpage{17}
-    \subitem funciones asociadas de, \hyperpage{17}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{17}
-    \subitem polinomios de, \hyperpage{17}
+    \subitem ecuaci\IeC {\'o}n asociada de, \hyperpage{19}
+    \subitem funciones asociadas de, \hyperpage{19}
+      \subsubitem relaciones de ortogonalidad de las, \hyperpage{19}
+    \subitem polinomios de, \hyperpage{19}
 
   \indexspace
 
   \item Ortogonalidad
     \subitem funciones asociadas de Legrende, relaciones de, 
-		\hyperpage{17}
-    \subitem seno y coseno, relaciones de, \hyperpage{17}
+		\hyperpage{19}
+    \subitem seno y coseno, relaciones de, \hyperpage{19}
 
   \indexspace
 
   \item Plano
-    \subitem de esparcimiento, \hyperpage{10}
-  \item Polarización
-    \subitem respecto al plano de esparcimiento, \hyperpage{10}
-      \subsubitem paralela ($\parallel$), \hyperpage{10}
-      \subsubitem perpendicular ($\perp$), \hyperpage{10}
+    \subitem de esparcimiento, \hyperpage{12}
+  \item Polarizaci\IeC {\'o}n
+    \subitem respecto al plano de esparcimiento, \hyperpage{12}
+      \subsubitem paralela ($\parallel$), \hyperpage{12}
+      \subsubitem perpendicular ($\perp$), \hyperpage{12}
 
   \indexspace
 
-  \item Separación de variables, \hyperpage{16}
+  \item Separaci\IeC {\'o}n de variables, \hyperpage{18}
 
 \end{theindex}

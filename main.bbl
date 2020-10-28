@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 2.9 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -33,7 +33,7 @@
     \strng{fullhash}{JJD1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{edition}{3}
+    \field{edition}{3$^\circ$}
     \field{title}{Classical electrodynamics}
     \field{year}{1999}
   \endentry
@@ -69,6 +69,11 @@
     \field{edition}{4}
     \field{title}{Foundations of Electromagnetic Teory}
     \field{year}{1993}
+  \endentry
+
+  \entry{purcell2011electricity}{book}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Electricity and Magnetism}
   \endentry
 
   \entry{griffiths2013electrodynamics}{book}{}
@@ -115,8 +120,8 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{edition}{7}
-    \field{title}{{Principle of Optics: Electromagnetic Theory of Propagation,
-  Intergerence and Diffraction of Light}}
+    \field{title}{Principle of Optics: Electromagnetic Theory of Propagation,
+  Intergerence and Diffraction of Light}
     \field{year}{2005}
   \endentry
 
@@ -144,6 +149,87 @@
     \field{labeltitlesource}{title}
     \field{title}{Absorption and scattering of light by small particles}
     \field{year}{1998}
+  \endentry
+
+  \entry{yu2010fundamentals}{book}{}
+    \name{author}{2}{}{%
+      {{hash=YPY}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Peter\bibnamedelima Y.},
+         giveni={P\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cardona},
+         familyi={C\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{YPYCM1}
+    \strng{fullhash}{YPYCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{4}
+    \field{title}{Fundamentals of semiconductors. Physics and materials
+  properties}
+    \field{year}{2010}
+  \endentry
+
+  \entry{kittel1996introduction}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KC}{%
+         family={Kittel},
+         familyi={K\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley $\&$ Sons}%
+    }
+    \strng{namehash}{KC1}
+    \strng{fullhash}{KC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Introduction to Solid State Physics}
+    \field{year}{1996}
+  \endentry
+
+  \entry{tsang2000scattering}{book}{}
+    \name{author}{3}{}{%
+      {{hash=TL}{%
+         family={Tsang},
+         familyi={T\bibinitperiod},
+         given={Leung},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KJA}{%
+         family={Kong},
+         familyi={K\bibinitperiod},
+         given={Jin\bibnamedelima Au},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DKH}{%
+         family={Ding},
+         familyi={D\bibinitperiod},
+         given={Kung-Hau},
+         giveni={K\bibinitperiod-H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{TLKJADKH1}
+    \strng{fullhash}{TLKJADKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Scattering of electromagnetic waves: theories and
+  applications}
+    \field{year}{2000}
   \endentry
 
   \entry{arfken2001methods}{book}{}
