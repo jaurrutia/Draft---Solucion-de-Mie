@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.15)  5 OCT 2020 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.15)  28 OCT 2020 00:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1725,7 +1725,7 @@ Overfull \hbox (82.51755pt too wide) in paragraph at lines 103--104
 cmr/m/n/10 : 
  []
 
-<1-Capitulo-Repaso/0-Diagramas/dibujo.pdf, id=277, 312.98033pt x 85.35826pt>
+<1-Capitulo-Repaso/0-Diagramas/dibujo.pdf, id=279, 312.98033pt x 85.35826pt>
 File: 1-Capitulo-Repaso/0-Diagramas/dibujo.pdf Graphic file (type pdf)
 <use 1-Capitulo-Repaso/0-Diagramas/dibujo.pdf>
 Package pdftex.def Info: 1-Capitulo-Repaso/0-Diagramas/dibujo.pdf  used on inpu
@@ -1751,7 +1751,7 @@ LaTeX Info: Redefining \% on input line 157.
 LaTeX Info: Redefining \. on input line 213.
 LaTeX Info: Redefining \% on input line 213.
  [6]
-<1-Capitulo-Repaso/0-Diagramas/campos.pdf, id=373, 461.68135pt x 319.80643pt>
+<1-Capitulo-Repaso/0-Diagramas/campos.pdf, id=375, 461.68135pt x 319.80643pt>
 File: 1-Capitulo-Repaso/0-Diagramas/campos.pdf Graphic file (type pdf)
 <use 1-Capitulo-Repaso/0-Diagramas/campos.pdf>
 Package pdftex.def Info: 1-Capitulo-Repaso/0-Diagramas/campos.pdf  used on inpu
@@ -1764,42 +1764,40 @@ LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
  [8]
 Cap\'{\i }tulo 2.
-[9
+(./2-Capitulo-General/MatAmpliScat.tex [9
 
-] [10
+]
+
+LaTeX Warning: Citation 'tsang2000scattering' on page 10 undefined on input lin
+e 143.
+
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
+[10]) [11] [12
 
 ]
 Cap\'{\i }tulo 3.
-(./3-Capitulo-AEV/AEV.tex [11]
-
-LaTeX Warning: Reference `eq:MEsparcimientoGral' on page 12 undefined on input 
-line 58.
-
+(./3-Capitulo-AEV/AEV.tex [13]
 LaTeX Info: Redefining \. on input line 81.
 LaTeX Info: Redefining \% on input line 81.
-[12]
+ [14]
 LaTeX Info: Redefining \. on input line 125.
 LaTeX Info: Redefining \% on input line 125.
- [13]
+ [15]
 Overfull \hbox (4.73338pt too wide) detected at line 153
 []
  []
 
 LaTeX Info: Redefining \. on input line 158.
 LaTeX Info: Redefining \% on input line 158.
-[14]
-
-LaTeX Warning: Reference `eq:MEsparcimientoGral' on page 15 undefined on input 
-line 176.
-
-
+[16]
 Overfull \hbox (44.13766pt too wide) detected at line 193
 []
  []
 
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
-[15]
+[17]
 Overfull \hbox (66.75308pt too wide) detected at line 205
 []
  []
@@ -1833,7 +1831,7 @@ Overfull \hbox (75.07071pt too wide) detected at line 241
 
 LaTeX Info: Redefining \. on input line 241.
 LaTeX Info: Redefining \% on input line 241.
-[16]
+[18]
 Overfull \hbox (101.96893pt too wide) detected at line 251
 []
  []
@@ -1845,12 +1843,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
 LaTeX Info: Redefining \. on input line 273.
 LaTeX Info: Redefining \% on input line 273.
-[17]
+[19]
 LaTeX Info: Redefining \. on input line 327.
 LaTeX Info: Redefining \% on input line 327.
- [18]
+ [20]
 
-LaTeX Warning: Reference `seq:FLArm' on page 19 undefined on input line 331.
+LaTeX Warning: Reference `seq:FLArm' on page 21 undefined on input line 331.
 
 ) (./3-Capitulo-AEV/Ejercicios.tex
 Overfull \hbox (10.37422pt too wide) detected at line 28
@@ -1864,18 +1862,18 @@ Overfull \hbox (13.15201pt too wide) detected at line 32
 
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
-[19])
+[21])
 LaTeX Info: Redefining \. on input line 112.
 LaTeX Info: Redefining \% on input line 112.
- [20]
+ [22]
 Cap\'{\i }tulo 4.
-[21
+[23
 
-] [22
+] [24
 
 ]
 Cap\'{\i }tulo 5.
-[23] [24
+[25] [26
 
 ]
 Overfull \hbox (2.56166pt too wide) in paragraph at lines 138--138
@@ -1888,12 +1886,12 @@ Overfull \hbox (2.59912pt too wide) in paragraph at lines 138--138
 []\T1/cmr/m/n/10 John R. Reitz, Fre-de-rick J. Mil-ford y Ro-bert W Christy.
  []
 
-[25] [26
+[27] [28
 
 ]
 runsystem(makeindex main.idx)...executed safely (allowed).
 
- (./main.ind) [27
+ (./main.ind) [29
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
@@ -1904,15 +1902,9 @@ LaTeX Info: Redefining \% on input line 29.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: E0BEE59ED6D2DD387F8AD5C384A88B97;1076.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 0136A8B3127AC2F54A8A6B635C91D734;1072
-(rerunfilecheck)             After:  8F5EABA4916C8C0CE34A9DDD13E46594;1075.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.72pt have occurred.
@@ -1924,19 +1916,20 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50125 strings out of 481239
- 1146726 string characters out of 5920377
- 2035086 words of memory out of 5000000
- 64295 multiletter control sequences out of 15000+600000
- 558845 words of font info for 88 fonts, out of 8000000 for 9000
+ 50470 strings out of 481239
+ 1153587 string characters out of 5920377
+ 2036240 words of memory out of 5000000
+ 64620 multiletter control sequences out of 15000+600000
+ 559610 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,19n,105p,1392b,2016s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
@@ -1965,16 +1958,17 @@ blic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx20
 exmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/pub
 lic/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm070
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sfxc1000.pfb>
-Output written on main.pdf (41 pages, 1015659 bytes).
+xmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfxc1000.pfb>
+Output written on main.pdf (43 pages, 1048620 bytes).
 PDF statistics:
- 821 PDF objects out of 1000 (max. 8388607)
- 701 compressed objects within 8 object streams
- 173 named destinations out of 1000 (max. 500000)
- 287 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 879 PDF objects out of 1000 (max. 8388607)
+ 755 compressed objects within 8 object streams
+ 188 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
 

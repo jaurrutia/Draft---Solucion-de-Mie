@@ -15,18 +15,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Vector de Poynting}{7}{section.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Teoría general de esprcimiento}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Teoría general de esparcimiento}{9}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Los armónicos esféricos vectoriales}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Los armónicos esféricos vectoriales}{13}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Solución con geometría esférica}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Solución con geometría esférica}{14}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Relaciones de ortogonalidad}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Relaciones de ortogonalidad}{17}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Expansión de una onda plana}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Expansión de una onda plana}{19}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Ejercicios sugeridos}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Ejercicios sugeridos}{21}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Esparcimiento y absorción de una esfera}{21}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Esparcimiento y absorción de una esfera}{23}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Casos particulares}{23}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Casos particulares}{25}{chapter.5}%

@@ -1,54 +1,69 @@
 \begin{theindex}
 
-  \item Armónicos esféricos vectoriales, \hyperpage{12}
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{15}
+  \item Armónicos esféricos vectoriales, \hyperpage{14}
+    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{17}
     \subitem función generadora
-      \subsubitem solución azimutal de la, \hyperpage{13}
-      \subsubitem solución general, \hyperpage{14}
-      \subsubitem solución polar de la, \hyperpage{13}
-      \subsubitem solución radial de la, \hyperpage{14}
-    \subitem función generadora de los, \hyperpage{12}
+      \subsubitem solución azimutal de la, \hyperpage{15}
+      \subsubitem solución general, \hyperpage{16}
+      \subsubitem solución polar de la, \hyperpage{15}
+      \subsubitem solución radial de la, \hyperpage{16}
+    \subitem función generadora de los, \hyperpage{14}
 
   \indexspace
 
   \item Bessel
-    \subitem ecuación esférica de, \hyperpage{14}
-    \subitem funciones esféricas de, \hyperpage{14}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{14}
+    \subitem ecuación esférica de, \hyperpage{16}
+    \subitem funciones esféricas de, \hyperpage{16}
+      \subsubitem relaciones de recurrencia de las, \hyperpage{16}
 
   \indexspace
 
   \item Ecuación
-    \subitem asociada de Legendre, \hyperpage{13}
-    \subitem esférica de Bessel, \hyperpage{14}
+    \subitem asociada de Legendre, \hyperpage{15}
+    \subitem esférica de Bessel, \hyperpage{16}
+  \item Electromagnéticos
+    \subitem campos
+      \subsubitem lejano, \hyperpage{10}
+      \subsubitem operador de campo lejano, \hyperpage{10}
+  \item Esparcimiento
+    \subitem matriz de, \hyperpage{11}
 
   \indexspace
 
-  \item Hankel, \hyperindexformat{\see{Bessel}}{14}
-    \subitem funciones esféricas de, \hyperpage{14}
+  \item Hankel, \hyperindexformat{\see{Bessel}}{16}
+    \subitem funciones esféricas de, \hyperpage{16}
 
   \indexspace
 
   \item Kronecker
-    \subitem Delta de, \hyperpage{13}
+    \subitem Delta de, \hyperpage{15}
 
   \indexspace
 
   \item Legendre
-    \subitem ecuación asociada de, \hyperpage{13}
-    \subitem funciones asociadas de, \hyperpage{13}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{13}
-    \subitem polinomios de, \hyperpage{13}
+    \subitem ecuación asociada de, \hyperpage{15}
+    \subitem funciones asociadas de, \hyperpage{15}
+      \subsubitem relaciones de ortogonalidad de las, \hyperpage{15}
+    \subitem polinomios de, \hyperpage{15}
 
   \indexspace
 
   \item Ortogonalidad
     \subitem funciones asociadas de Legrende, relaciones de, 
-		\hyperpage{13}
-    \subitem seno y coseno, relaciones de, \hyperpage{13}
+		\hyperpage{15}
+    \subitem seno y coseno, relaciones de, \hyperpage{15}
 
   \indexspace
 
-  \item Separación de variables, \hyperpage{12}
+  \item Plano
+    \subitem de esparcimiento, \hyperpage{10}
+  \item Polarización
+    \subitem respecto al plano de esparcimiento, \hyperpage{10}
+      \subsubitem paralela ($\parallel$), \hyperpage{10}
+      \subsubitem perpendicular ($\perp$), \hyperpage{10}
+
+  \indexspace
+
+  \item Separación de variables, \hyperpage{14}
 
 \end{theindex}
