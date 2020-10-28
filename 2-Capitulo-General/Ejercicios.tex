@@ -1,0 +1,44 @@
+%!TeX root = ../main.tex
+
+\section{Ejercicios sugeridos}
+
+\begin{enumerate}[label=\textbf{Ejercicio \thechapter.\arabic*},resume]
+\item A partir de las Ecs. \eqref{eq:H=curlA} y \eqref{eq:Aoscilante}, muestre que el campo $\vb{H}$, para una fuente oscilante en el tiempo, está dado por la Ec. \eqref{eq:Hoscilante}.
+\label{ex:Hoscilante}
+\item[\color{blue} Solución:]
+	Notemos que
+	\begin{align*}
+	\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) = \nabla\qty(\frac{e^{ikr}}{r})\times\vb{p} + \frac{e^{ikr}}{r}\nabla\times\vb{p},
+\end{align*}		
+y como $\vb{p}$ no depende de $\vb{r}$, entonces $\nabla\times\vb{p} = \vb{0}$. Por lo tanto
+\begin{align*}
+\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) 
+	 &= \qty[e^{ikr}\nabla\qty(\frac{1}{r})+\frac{1}{r}\nabla\qty(e^{ikr})]\times\vb{p}\\
+	 &= \qty[e^{ikr}\qty(-\frac{\vu{e}_r}{r^2})+\frac{ik}{r}e^{ikr}] \times\vb{p}\\
+	 &= \frac{e^{ikr}}{r}\qty(-\frac{1}{r}+ik)\vu{e}_r\times\vb{p}.
+\end{align*}
+Multiplicando el resultado anterior por $-i\omega k/4\pi k$ y recordando que la relación de dispersión para ondas electromagnéticas en el vacío es $\omega =  ck$,  obtenemos que
+	\begin{align*}
+	\vb{H} = \frac{ck^2}{4\pi}\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})\vu{e}_r\times\vb{p}.
+	\end{align*}
+	
+\item Muestre que el campo eléctrico para una fuente oscilante en el tiempo está dada por la Ec. \eqref{eq:Eoscilante}. Hágalo calculando el rotacional de la Ec.  \eqref{eq:Hoscilante}.
+\label{ex:Eoscilante}
+\item[\color{blue} Solución:]
+	Notemos que
+	\begin{align*}
+	\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) = \nabla\qty(\frac{e^{ikr}}{r})\times\vb{p} + \frac{e^{ikr}}{r}\nabla\times\vb{p},
+\end{align*}		
+y como $\vb{p}$ no depende de $\vb{r}$, entonces $\nabla\times\vb{p} = \vb{0}$. Por lo tanto
+\begin{align*}
+\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) 
+	 &= \qty[e^{ikr}\nabla\qty(\frac{1}{r})+\frac{1}{r}\nabla\qty(e^{ikr})]\times\vb{p}\\
+	 &= \qty[e^{ikr}\qty(-\frac{\vu{e}_r}{r^2})+\frac{ik}{r}e^{ikr}] \times\vb{p}\\
+	 &= \frac{e^{ikr}}{r}\qty(-\frac{1}{r}+ik)\vu{e}_r\times\vb{p}.
+\end{align*}
+Multiplicando el resultado anterior por $-i\omega k/4\pi k$ y recordando que la relación de dispersión para ondas electromagnéticas en el vacío es $\omega =  ck$,  obtenemos que
+	\begin{align*}
+	\vb{H} = \frac{ck^2}{4\pi}\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})\vu{e}_r\times\vb{p}.
+	\end{align*}	
+
+\end{enumerate}

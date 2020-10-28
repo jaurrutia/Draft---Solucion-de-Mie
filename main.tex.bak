@@ -79,15 +79,17 @@ Aquí iría el texto que todos vamos a escribir al final, en donde hablamos del 
 % \item Condiciones a la frontera considerando una esfera
 %\end{itemize}
 
-\chapter{Teoría general de esprcimiento}
+\chapter{Teoría general de esparcimiento}
 \label{ch:EsparcimientoGral} %-------------------Labels para los capítulos -> ch:LABEL
 
 \input{2-Capitulo-General/MatAmpliScat.tex}
+\input{2-Capitulo-General/Ejercicios.tex}
 
-\begin{itemize}
- \item Matriz de esparcimiento general
- \item Teorema óptico
-\end{itemize}
+%
+%\begin{itemize}
+% \item Matriz de esparcimiento general
+% \item Teorema óptico
+%\end{itemize}
 
 
 
