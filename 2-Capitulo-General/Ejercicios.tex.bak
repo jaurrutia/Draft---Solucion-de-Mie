@@ -25,20 +25,108 @@ Multiplicando el resultado anterior por $-i\omega k/4\pi k$ y recordando que la 
 \item Muestre que el campo eléctrico para una fuente oscilante en el tiempo está dada por la Ec. \eqref{eq:Eoscilante}. Hágalo calculando el rotacional de la Ec.  \eqref{eq:Hoscilante}.
 \label{ex:Eoscilante}
 \item[\color{blue} Solución:]
-	Notemos que
+	Calculando el rotacional de la Ec. \eqref{eq:Hoscilante} como el producto de una dunciín escalar que depende de $r$ y el término vectorial $\vu{e}_r\times\vb{p}$, se obtiene que el campo eléctrico es
+	%
 	\begin{align*}
-	\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) = \nabla\qty(\frac{e^{ikr}}{r})\times\vb{p} + \frac{e^{ikr}}{r}\nabla\times\vb{p},
-\end{align*}		
-y como $\vb{p}$ no depende de $\vb{r}$, entonces $\nabla\times\vb{p} = \vb{0}$. Por lo tanto
+	\vb{E} &= \frac{i}{k}\sqrt{\frac{\mu_0}{\varepsilon_0}} \frac{ck^2}{4\pi}\left\{
+		\qty[\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})]\nabla\times(\vu{e}_r\times\vb{p}) +
+	\nabla\qty[\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})]\times(\vu{e}_r\times\vb{p}) 
+	\right\}\\
+		&= \frac{ik}{4\pi\varepsilon_0}\left\{
+		\qty[\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})]\nabla\times(\vu{e}_r\times\vb{p}) +
+	\dv{r}\qty[\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})]\vu{e}_r\times(\vu{e}_r\times\vb{p}) 
+	\right\}.
+	\end{align*}
+%
+Al descomponer el momento dipolar $\vb{p}$ en una componente longitudinal y una transversal como $\vb{p} = (\vb{p}\cdot\vu{e}_r)\vu{e}_r + (\vb{p}\times\vu{e}_r)\times\vu{e}_r $, se obtiene que
+%
 \begin{align*}
-\nabla\times\qty(\frac{e^{ikr}}{r}\vb{p}) 
-	 &= \qty[e^{ikr}\nabla\qty(\frac{1}{r})+\frac{1}{r}\nabla\qty(e^{ikr})]\times\vb{p}\\
-	 &= \qty[e^{ikr}\qty(-\frac{\vu{e}_r}{r^2})+\frac{ik}{r}e^{ikr}] \times\vb{p}\\
-	 &= \frac{e^{ikr}}{r}\qty(-\frac{1}{r}+ik)\vu{e}_r\times\vb{p}.
+	\vu{e}_r \times (\vu{e}_r \times \vb{p}) = - \vb{p} +  (\vb{p}\cdot\vu{e}_r)\vu{e}_r,
 \end{align*}
-Multiplicando el resultado anterior por $-i\omega k/4\pi k$ y recordando que la relación de dispersión para ondas electromagnéticas en el vacío es $\omega =  ck$,  obtenemos que
-	\begin{align*}
-	\vb{H} = \frac{ck^2}{4\pi}\frac{e^{ikr}}{r}\qty(1-\frac{1}{ikr})\vu{e}_r\times\vb{p}.
-	\end{align*}	
+%
+y al calcular el rotacional de $\vu{e}_r\times\vb{p}$, ésta expresión se reduce a\footnote{Si $\vb{a}$ es un vector constante y $\vb{f}(\vb{r})=f(r)\vu{e}_r$, entonces \cite{jackson1999electrodynamics} $$(\vb{a}\cdot\nabla)\vb{f} = [f(r)/r][\vb{a}-\vu{e}_r(\vb{a}\cdot\vu{e}_r)]+\vu{e}_r(\vb{a}\cdot\vu{e}_r)\pdv*{f}{r}.$$}
+%
+\begin{align*}
+\nabla\times (\vu{e}_r\times\vb{p}) &= \vu{e}_r(\nabla\cdot\vb{p}) - \vb{p}(\nabla\cdot\vu{e}_r) + (\vb{p}\cdot\nabla)\vu{e}_r-(\vu{e}_r\cdot\nabla)\vb{p}\\
+	&=  - \vb{p}(\nabla\cdot\vu{e}_r) + (\vb{p}\cdot\nabla)\vu{e}_r\\
+	&= -\vb{p}\frac{2}{r} + \frac{1}{r}\qty[\vb{p}-\vu{e}_r(\vb{p}\cdot\vu{e}_r)]\\
+	&= -\frac{1}{r}[\vb{p}+\vu{e}_r(\vb{p}\cdot\vu{e}_r)].
+\end{align*}
+%
+Sustituyendo estas expresiones y desarrollando la derivada respecto a $r$, el campo eléctrico se reescribe como
+%
+\begin{align*}
+\vb{E} &= \frac{ik e^{ikr}}{4\pi\varepsilon_0}\qty[
+	\qty(\frac{1}{r^2}-\frac{1}{ikr^3})[-\vb{p}-\vu{e}_r(\vb{p}\cdot\vu{e}_r)] + 
+	\qty(-\frac{2}{r^2}+\frac{ik}{r}+\frac{2}{ikr^3})[-\vb{p}+\vu{e}_r(\vb{p}\cdot\vu{e}_r)]
+]\\
+	&=  \frac{e^{ikr}}{4\pi\varepsilon_0}\qty[
+	\qty(\frac{ik}{r^2}-\frac{1}{r^3})[-\vb{p}-\vu{e}_r(\vb{p}\cdot\vu{e}_r)] + 
+	\qty(-\frac{2ik}{r^2}-\frac{k^2}{r}+\frac{2}{r^3})[-\vb{p}+\vu{e}_r(\vb{p}\cdot\vu{e}_r)],
+]
+\end{align*}
+%
+y, finalmente, agrupando términos se obtiene la expresión
+%
+\begin{align*}
+\vb{E} = \frac{e^{ikr}}{4\pi\varepsilon_0}\qty[
+	\frac{k^2}{r}(\vu{e}_r\times\vb{p})\times\vu{e}_r + 
+	[3\vu{e}_r(\vu{e}_r\cdot\vb{p})-\vb{p}](\frac{1}{r^3}-\frac{ik}{r^2})
+].
+\end{align*}.
+%
 
+\item Calcule el vector de Poynting asociado a la extinción [Ec. \eqref{eq:Sext}] para una partícula esparcidora arbitraria iluminada por una onda plana monocromática polarizada en la dirección $x$ y que se propaga en la dirección $z$.
+\textit{Hint:} Emplee las Ecs. \eqref{eq:EscaX} y \eqref{eq:HscaX}.
+\label{ex:Wext}
+\item[\color{blue} Solución:]
+Empleando la Ec. \eqref{eq:HscaX} y que $\vb{E}^i = E_0\vu{e}_x$, entonces
+%
+\begin{align*}
+\vb{E}^i\times\vb{H}^{s*} &= E_0\vu{e}_x\times\qty(\frac{k}{\omega\mu}\vu{e}_r\times\vb{E}^s)^*\\
+	&= E_0 \vu{e}_x\times\qty[\qty(\frac{k}{\omega\mu}\vu{e}_r)\times\qty(\frac{e^{ik(r-z)}}{-ikr}E_0\vb{X})]^*\\
+	&= \frac{k}{\mu\omega}\frac{E_0^2}{ikr}e^{-ik(r-z)}\big[\vu{e}_x\times(\vu{e}_r\times\vb{X}^*)\big]\\
+&= \frac{k}{\mu\omega}\frac{E_0^2}{ikr}e^{-ik(r-z)}
+	\big[
+	\vu{e}_r(\vu{e}_x\cdot\vb{X}^*)-\vb{X}^*(\vu{e}_x\cdot\vu{e}_r)\big],
+\end{align*}
+%
+y análogamente con la Ec. \eqref{eq:EscaX}
+%
+\begin{align*}
+\vb{E}^s\times\vb{H}^{i*} = \frac{k}{\mu\omega} \frac{E_0^2}{-ikr}\big[
+	\vu{e}_z(\vb{X}\cdot\vu{e}_x)-\vu{e}_x(\vb{X}\cdot\vu{e}_z)\big],
+\end{align*}
+%
+por lo que
+%
+\begin{align*}
+\vb{S}^{ext} = \frac{kE_0^2}{2\mu\omega}\Re\bigg\{&
+\frac{e^{-ikr}}{ikr}e^{ikz}
+	\big[
+	\vu{e}_r(\vu{e}_x\cdot\vb{X}^*)-\vb{X}^*(\vu{e}_x\cdot\vu{e}_r)		
+	\big]\\
++&
+\frac{e^{ikr}}{-ikr}e^{-ikz}
+	\big[
+	\vu{e}_z(\vb{X}\cdot\vu{e}_x)-\vu{e}_x(\vb{X}\cdot\vu{e}_z)
+	\big]
+\bigg\}.
+\end{align*}
+%
+
+Dado que $\vb{X}\cdot\vu{e}_r = 0$, $\vu{e}_r\cdot\vu{e}_z = \cos\theta$ y $\vb{e}_r\cdot\vb{e}_x = \cos\varphi\sin\theta$, la energía que cruza una superfice  esférica $A$ de radio $r$ $W_{ext}$ es
+%
+\begin{align*}
+W_{ext} = -\int_{A} \vb{S}^{ext}\cdot\vu{e}_r\dd{a}
+ = \frac{kE_0^2}{2\mu\omega}\Re\bigg\{&
+\frac{e^{-ikr}}{-ikr}
+	\int_A e^{ikz} (\vu{e}_x\cdot\vb{X}^*)\dd{a}\\
++&\frac{e^{ikr}}{ikr}
+	\int_A e^{-ikz}(\vb{X}\cdot\vu{e}_x)\cos\theta\dd{a}\\
+-&\frac{e^{ikr}}{ikr}
+	\int_A e^{-ikz}(\vb{X}\cdot\vu{e}_z)\sin\theta\cos\varphi\dd{a}
+	\bigg\}.
+\end{align*}
+%
 \end{enumerate}

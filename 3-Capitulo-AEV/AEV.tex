@@ -122,17 +122,14 @@ Para resolver la Ec. \eqref{eq:Req} se emplea el cambio de variable $\rho = k r$
 	\label{eq:rho}
 	\end{align}
 cuyas soluciones son las \emph{funciones esféricas de Bessel} $j_\ell$ y $y_\ell$ o cualquier combinación lineal de ellas, por lo que de forma general las soluciones de la Ec. \eqref{eq:rho} son \cite{arfken2001methods} \index{Bessel!funciones esféricas de}
-
-	\begin{subequations}
-	\begin{align}
+%
+	\begin{subequations}\begin{align}
 	j_\ell (\rho) &= \sqrt{\frac{\pi}{2\rho}} J_{\ell+1/2}(\rho), \label{eqs:jn}\\
 	y_\ell (\rho) &= \sqrt{\frac{\pi}{2\rho}} Y_{\ell+1/2}(\rho), \label{eqs:yn}\\
 	h_\ell^{(1)} (\rho) &= j_\ell(\rho) + i y_\ell(\rho), \label{eqs:h1}\\
 	h_\ell^{(2)} (\rho) &=  j_\ell(\rho) - i y_\ell(\rho), \label{eqs:h2}
-	\end{align}			\label{eq:SphBessel}
-	\end{subequations}
-
-\noindent	
+	\end{align}			\label{eq:SphBessel}	\end{subequations}
+%
 en donde $J_\ell$ y $Y_\ell$ son las \emph{funciones de Bessel del primer y segundo tipo}, respectivamente, y $h_\ell$ son las \emph{funciones esféricas de Bessel del tercer tipo}, también denominadas como \emph{funciones esféricas de Hankel}. Todas las funciones esféricas de Bessel $z_\ell$ ---donde $z_\ell$ es cualquier función de las Ecs. \eqref{eq:SphBessel}--- puede ser calculada mediante relaciones de recurrencia\footnote{Todas las funciones esféricas de Bessel cumplen: $	z_{\ell-1}(\rho) + z_{\ell+1}(\rho) =(2\ell+1)z_\ell(\rho)/\rho$ y $(2\ell + 1) \dv*{z_\ell(\rho)}{\rho} = \ell z_{\ell-1}(\rho) - (\ell+1)z_{\ell+1}(\rho)$, con  $j_0(\rho) = \sin\rho / \rho$ y $j_1(\rho) = \sin\rho / \rho^2- \cos\rho/\rho$, $y_0(\rho) = -\cos\rho/\rho$ y $y_1(\rho) = -\cos\rho/\rho^2-\sin\rho/\rho$.\index{Bessel!funciones esféricas de!relaciones de recurrencia de las}} \cite{arfken2001methods}\index{Hankel!funciones esféricas de}\index{Hankel|see{Bessel}}.
 
 Dado que las soluciones para la ecuación azimutal son las Ecs. \eqref{eq:Sin}y \eqref{eq:Cos}, para la polar, Ec. \eqref{eq:Legendre} y para la radial, Ecs. \eqref{eq:SphBessel}, las funciones generadoras de los armónicos esféricos vectoriales son\index{Armónicos esféricos vectoriales!función generadora!solución general}
