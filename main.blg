@@ -1,9 +1,9 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: biblatex.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -16,60 +16,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
 Database file #2: 0-Bibliografia/references.bib
-I was expecting a `,' or a `}'---line 127 of file 0-Bibliografia/references.bib
- :  title={Electricity and Magnetism}
- :                                   .
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 146 of file 0-Bibliografia/references.bib
- :  
- :  edition={7}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "jackson1999electrodyanmics"
-Biblatex version: 3.8
+Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 11 entries,
-            6268 wiz_defined-function locations,
-            1227 strings with 9755 characters,
-and the built_in function-call counts, 51001 in all, are:
-= -- 3524
-> -- 1073
-< -- 343
-+ -- 1120
-- -- 347
-* -- 3242
-:= -- 4699
+You've used 12 entries,
+            6365 wiz_defined-function locations,
+            1252 strings with 10274 characters,
+and the built_in function-call counts, 66923 in all, are:
+= -- 4952
+> -- 1291
+< -- 422
++ -- 1374
+- -- 395
+* -- 4378
+:= -- 6555
 add.period$ -- 0
-call.type$ -- 11
-change.case$ -- 223
-chr.to.int$ -- 30
-cite$ -- 20
-duplicate$ -- 5180
-empty$ -- 4888
-format.name$ -- 557
-if$ -- 10995
+call.type$ -- 12
+change.case$ -- 293
+chr.to.int$ -- 42
+cite$ -- 22
+duplicate$ -- 6259
+empty$ -- 6253
+format.name$ -- 648
+if$ -- 14508
 int.to.chr$ -- 0
-int.to.str$ -- 28
+int.to.str$ -- 34
 missing$ -- 0
-newline$ -- 258
-num.names$ -- 518
-pop$ -- 3412
+newline$ -- 300
+num.names$ -- 658
+pop$ -- 3803
 preamble$ -- 1
-purify$ -- 274
+purify$ -- 350
 quote$ -- 0
-skip$ -- 1968
+skip$ -- 2448
 stack$ -- 0
-substring$ -- 5699
-swap$ -- 1235
-text.length$ -- 224
+substring$ -- 8756
+swap$ -- 1463
+text.length$ -- 256
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 362
+type$ -- 396
 warning$ -- 0
-while$ -- 521
+while$ -- 764
 width$ -- 0
-write$ -- 248
-(There were 2 error messages)
+write$ -- 289
+(There was 1 warning)

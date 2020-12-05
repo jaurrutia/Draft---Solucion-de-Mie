@@ -3,15 +3,11 @@
 % -----------------------------------------------  Books
 %
 % ------------------------------------------------------------------------
-
-
 @book{born2005principles,
-	location = {New York, {USA}},
 	edition = {7},
 	title = {Principle of Optics: Electromagnetic Theory of Propagation, Intergerence and Diffraction of Light},
-	isbn = {0-521-64222-1},
 	publisher = {Cambridge University Press},
-	author = {Born, Max, Emil, Wolf},
+	author = {Born, Max and Emil, Wolf},
 	year = {2005}
 }
 
@@ -127,7 +123,28 @@ publisher={Addison-Wesley Pub. Co.},
   edition = {4}
 }
 
+@book{purcell2011electricity,
+ title={Electricity and Magnetism},
+ author={Purcell, Edward M.},
+ year={2011},
+ publisher={Cambridge University Press}
+}
 
+@book{yu2010fundamentals,
+ title={Fundamentals of semiconductors. Physics and materials properties},
+ author={Yu, Peter Y. and Cardona, Manuel},
+ year={2010},
+ publisher={Springer},
+ edition={4},
+} 
+
+@book{kittel1996introduction,
+ title={Introduction to Solid State Physics},
+ author={Kittel, Charles},
+ year={1996},
+ publisher={John Wiley $\&$ Sons},
+ edition={7}
+}
 
 @article{hale973optical,
 author = {Hale, George M. and Querry, Marvin R.},
@@ -213,25 +230,15 @@ year = {2009}
   address ={Pa\'is Vasco, Espa\~na}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@inbook{hermans2011waterappendices,
+	location = {Dordrecht},
+	title = {Appendices: Mathematical Methods},
+	isbn = {978-94-007-0095-6 978-94-007-0096-3},
+	pages = {155--164},
+	booktitle = {Water Waves and Ship Hydrodynamics},
+	publisher = {Springer Netherlands},
+	author = {Hermans, A. J.},
+	year = {2011}
+}
 
 

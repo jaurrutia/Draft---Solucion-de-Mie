@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -72,8 +72,23 @@
   \endentry
 
   \entry{purcell2011electricity}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PEM}{%
+         family={Purcell},
+         familyi={P\bibinitperiod},
+         given={Edward\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{PEM1}
+    \strng{fullhash}{PEM1}
+    \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{title}{Electricity and Magnetism}
+    \field{year}{2011}
   \endentry
 
   \entry{griffiths2013electrodynamics}{book}{}
@@ -195,6 +210,7 @@
     \strng{fullhash}{KC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{edition}{7}
     \field{title}{Introduction to Solid State Physics}
     \field{year}{1996}
   \endentry
@@ -217,7 +233,7 @@
          family={Ding},
          familyi={D\bibinitperiod},
          given={Kung-Hau},
-         giveni={K\bibinitperiod-H\bibinitperiod},
+         giveni={K\bibinithyphendelim H\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
@@ -230,6 +246,32 @@
     \field{title}{Scattering of electromagnetic waves: theories and
   applications}
     \field{year}{2000}
+  \endentry
+
+  \entry{hermans2011waterappendices}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=HAJ}{%
+         family={Hermans},
+         familyi={H\bibinitperiod},
+         given={A.\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Netherlands}%
+    }
+    \strng{namehash}{HAJ1}
+    \strng{fullhash}{HAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Water Waves and Ship Hydrodynamics}
+    \field{isbn}{978-94-007-0095-6 978-94-007-0096-3}
+    \field{pages}{155\bibrangedash 164}
+    \field{title}{Appendices: Mathematical Methods}
+    \list{location}{1}{%
+      {Dordrecht}%
+    }
+    \field{year}{2011}
   \endentry
 
   \entry{arfken2001methods}{book}{}

@@ -1,27 +1,27 @@
 \begin{theindex}
 
-  \item Armónicos esféricos vectoriales, \hyperpage{22}
-    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{25}
+  \item Armónicos esféricos vectoriales, \hyperpage{28}
+    \subitem $\vb{M}$ y $\vb{N}$, \hyperpage{31}
     \subitem función generadora
-      \subsubitem solución azimutal de la, \hyperpage{23}
-      \subsubitem solución general, \hyperpage{24}
-      \subsubitem solución polar de la, \hyperpage{23}
-      \subsubitem solución radial de la, \hyperpage{24}
-    \subitem función generadora de los, \hyperpage{22}
+      \subsubitem solución azimutal de la, \hyperpage{29}
+      \subsubitem solución general, \hyperpage{30}
+      \subsubitem solución polar de la, \hyperpage{29}
+      \subsubitem solución radial de la, \hyperpage{30}
+    \subitem función generadora de los, \hyperpage{28}
 
   \indexspace
 
   \item Bessel
-    \subitem ecuación esférica de, \hyperpage{24}
-    \subitem funciones esféricas de, \hyperpage{24}
-      \subsubitem relaciones de recurrencia de las, \hyperpage{24}
+    \subitem ecuación esférica de, \hyperpage{30}
+    \subitem funciones esféricas de, \hyperpage{30}
+      \subsubitem relaciones de recurrencia de las, \hyperpage{30}
 
   \indexspace
 
   \item Ecuaciones de Maxwell, \hyperpage{1}
   \item Ecuación
-    \subitem asociada de Legendre, \hyperpage{23}
-    \subitem esférica de Bessel, \hyperpage{24}
+    \subitem asociada de Legendre, \hyperpage{29}
+    \subitem esférica de Bessel, \hyperpage{30}
   \item Electromagnéticos
     \subitem campos
       \subsubitem lejano, \hyperpage{14}
@@ -31,28 +31,28 @@
 
   \indexspace
 
-  \item Hankel, \hyperindexformat{\see{Bessel}}{24}
-    \subitem funciones esféricas de, \hyperpage{24}
+  \item Hankel, \hyperindexformat{\see{Bessel}}{30}
+    \subitem funciones esféricas de, \hyperpage{30}
 
   \indexspace
 
   \item Kronecker
-    \subitem Delta de, \hyperpage{23}
+    \subitem Delta de, \hyperpage{29}
 
   \indexspace
 
   \item Legendre
-    \subitem ecuación asociada de, \hyperpage{23}
-    \subitem funciones asociadas de, \hyperpage{24}
-      \subsubitem relaciones de ortogonalidad de las, \hyperpage{24}
-    \subitem polinomios de, \hyperpage{24}
+    \subitem ecuación asociada de, \hyperpage{29}
+    \subitem funciones asociadas de, \hyperpage{30}
+      \subsubitem relaciones de ortogonalidad de las, \hyperpage{30}
+    \subitem polinomios de, \hyperpage{30}
 
   \indexspace
 
   \item Ortogonalidad
     \subitem funciones asociadas de Legrende, relaciones de, 
-		\hyperpage{24}
-    \subitem seno y coseno, relaciones de, \hyperpage{23}
+		\hyperpage{30}
+    \subitem seno y coseno, relaciones de, \hyperpage{29}
 
   \indexspace
 
@@ -65,6 +65,6 @@
 
   \indexspace
 
-  \item Separación de variables, \hyperpage{22}
+  \item Separación de variables, \hyperpage{28}
 
 \end{theindex}
