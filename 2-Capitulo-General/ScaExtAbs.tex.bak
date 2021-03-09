@@ -227,7 +227,7 @@ donde $\vb{X}$ y $\vb{Y}$ dependen de los coeficientes de la matriz de esparcimi
 	\begin{tcolorbox}[title = {Secciones transversales de extinción, absorción y esparcimiento} , ams align ]
 C_{ext} &= C_{abs} + C_{sca},
 \label{eq:OptTeo}\\
-C_{ext} &= \frac{4\pi}{k^2\norm{\vb{E}^i}}\Re\bigg\{(\vb{E}^{i*}\cdot\vb{T})\eval_{\theta = 0} \bigg\},+
+C_{ext} &= \frac{4\pi}{k^2\norm{\vb{E}^i}}\Re\bigg\{(\vb{E}^{i*}\cdot\vb{T})\eval_{\theta = 0} \bigg\},
 \label{eq:CextGeneral}\\
 C_{sca} &= \int_{4\pi} \frac{\norm{\vb{T}}^2}{k^2\norm{\vb{E}^i}^2}\dd{\Omega}.
 \label{eq:CscaGeneral}
@@ -257,7 +257,7 @@ Para poder comparar la cantidad de luz extinta por partículas de distintos tama
 Q_{ext} &= Q_{abs} + Q_{sca}.
 \end{align}
 %
-De manera intuitiva, la eficiencia de extinción $Q_ext$ debería ser idéntica a la unidad sin embargo, dicho resultado es válido únicamente en el régimen de la óptica geométrica.{\bf\color{red}Mencionar que esto se estudiará más adelante una vez que  tengamos la solución de Mie??}
+De manera intuitiva, la eficiencia de extinción $Q_{ext}$ debería ser idéntica a la unidad sin embargo, dicho resultado es válido únicamente en el régimen de la óptica geométrica.{\bf\color{red}Mencionar que esto se estudiará más adelante una vez que  tengamos la solución de Mie??}
 	
 	
 	

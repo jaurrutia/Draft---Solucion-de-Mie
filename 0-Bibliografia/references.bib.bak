@@ -242,3 +242,44 @@ year = {2009}
 }
 
 
+@article{newton1976optical,
+	title = {Optical theorem and beyond},
+	volume = {44},
+	issn = {0002-9505, 1943-2909},
+	url = {http://aapt.scitation.org/doi/10.1119/1.10324},
+	doi = {10.1119/1.10324},
+	pages = {639--642},
+	number = {7},
+	journal = {American Journal of Physics},
+	author = {Newton, Roger G.},
+	urldate = {2020-12-04},
+	year = {1976}
+}
+
+
+@article{krasavin2018generalization,
+	title = {Generalization of the optical theorem: experimental proof for radially polarized beams},
+	volume = {7},
+	issn = {2047-7538},
+	url = {http://www.nature.com/articles/s41377-018-0025-x},
+	doi = {10.1038/s41377-018-0025-x},
+	pages = {36},
+	number = {1},
+	journal = {Light: Science \& Applications},
+	author = {Krasavin, Alexey V. and Segovia, Paulina and Dubrovka, Rostyslav and Olivier, Nicolas and Wurtz, Gregory A. and Ginzburg, Pavel and Zayats, Anatoly V.},
+	date = {2018-12}
+}
+
+
+@article{strutt1871On,
+	title = {{XV}. {O}n the light from the sky, its polarization and colour}},
+	volume = {41},
+	issn = {1941-5982, 1941-5990},
+	url = {https://www.tandfonline.com/doi/full/10.1080/14786447108640452},
+	doi = {10.1080/14786447108640452},
+	pages = {107--120},
+	number = {271},
+	journal = {The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science},
+	author = {Strutt, J.W.},
+	date = {1871-02}
+}

@@ -23,45 +23,45 @@ Warning--I didn't find a database entry for "jackson1999electrodyanmics"
 Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 12 entries,
+You've used 15 entries,
             6365 wiz_defined-function locations,
-            1252 strings with 10274 characters,
-and the built_in function-call counts, 66923 in all, are:
-= -- 4952
-> -- 1291
-< -- 422
-+ -- 1374
-- -- 395
-* -- 4378
-:= -- 6555
+            1275 strings with 10933 characters,
+and the built_in function-call counts, 89957 in all, are:
+= -- 6461
+> -- 2261
+< -- 499
++ -- 2506
+- -- 1168
+* -- 5863
+:= -- 9434
 add.period$ -- 0
-call.type$ -- 12
-change.case$ -- 293
-chr.to.int$ -- 42
-cite$ -- 22
-duplicate$ -- 6259
-empty$ -- 6253
-format.name$ -- 648
-if$ -- 14508
+call.type$ -- 15
+change.case$ -- 309
+chr.to.int$ -- 102
+cite$ -- 28
+duplicate$ -- 8304
+empty$ -- 8234
+format.name$ -- 802
+if$ -- 18594
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 39
 missing$ -- 0
-newline$ -- 300
-num.names$ -- 658
-pop$ -- 3803
+newline$ -- 401
+num.names$ -- 734
+pop$ -- 4869
 preamble$ -- 1
-purify$ -- 350
+purify$ -- 384
 quote$ -- 0
-skip$ -- 2448
+skip$ -- 2879
 stack$ -- 0
-substring$ -- 8756
-swap$ -- 1463
-text.length$ -- 256
+substring$ -- 11857
+swap$ -- 1927
+text.length$ -- 330
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 396
+type$ -- 498
 warning$ -- 0
-while$ -- 764
+while$ -- 1070
 width$ -- 0
-write$ -- 289
+write$ -- 387
 (There was 1 warning)

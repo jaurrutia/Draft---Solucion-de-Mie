@@ -25,7 +25,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Teorema óptico}{19}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Ejercicios sugeridos}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Ejercicios sugeridos}{22}{section.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Los armónicos esféricos vectoriales}{27}{chapter.3}%
 \defcounter {refsection}{0}\relax 
@@ -33,10 +33,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Relaciones de ortogonalidad}{31}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Expansión de una onda plana}{34}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Expansión de una onda plana}{33}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Ejercicios sugeridos}{36}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Ejercicios sugeridos}{35}{section.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Esparcimiento y absorción de una esfera}{37}{chapter.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Casos particulares}{39}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Teorema Óptico: Deducción de van de Hulst}{41}{appendix.Alph1}%

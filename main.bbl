@@ -248,6 +248,109 @@
     \field{year}{2000}
   \endentry
 
+  \entry{krasavin2018generalization}{article}{}
+    \name{author}{7}{}{%
+      {{hash=KAV}{%
+         family={Krasavin},
+         familyi={K\bibinitperiod},
+         given={Alexey\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Segovia},
+         familyi={S\bibinitperiod},
+         given={Paulina},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dubrovka},
+         familyi={D\bibinitperiod},
+         given={Rostyslav},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ON}{%
+         family={Olivier},
+         familyi={O\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WGA}{%
+         family={Wurtz},
+         familyi={W\bibinitperiod},
+         given={Gregory\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Ginzburg},
+         familyi={G\bibinitperiod},
+         given={Pavel},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZAV}{%
+         family={Zayats},
+         familyi={Z\bibinitperiod},
+         given={Anatoly\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAV+1}
+    \strng{fullhash}{KAVSPDRONWGAGPZAV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/s41377-018-0025-x
+    \endverb
+    \field{issn}{2047-7538}
+    \field{number}{1}
+    \field{pages}{36}
+    \field{title}{Generalization of the optical theorem: experimental proof for
+  radially polarized beams}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41377-018-0025-x
+    \endverb
+    \field{volume}{7}
+    \field{journaltitle}{Light: Science \& Applications}
+    \field{month}{12}
+    \field{year}{2018}
+  \endentry
+
+  \entry{newton1976optical}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NRG}{%
+         family={Newton},
+         familyi={N\bibinitperiod},
+         given={Roger\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NRG1}
+    \strng{fullhash}{NRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1119/1.10324
+    \endverb
+    \field{issn}{0002-9505, 1943-2909}
+    \field{number}{7}
+    \field{pages}{639\bibrangedash 642}
+    \field{title}{Optical theorem and beyond}
+    \verb{url}
+    \verb http://aapt.scitation.org/doi/10.1119/1.10324
+    \endverb
+    \field{volume}{44}
+    \field{journaltitle}{American Journal of Physics}
+    \field{year}{1976}
+    \field{urlday}{04}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{strutt1871On}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{{XV}. {O}n the light from the sky, its polarization and
+  colour}
+  \endentry
+
   \entry{hermans2011waterappendices}{inbook}{}
     \name{author}{1}{}{%
       {{hash=HAJ}{%
